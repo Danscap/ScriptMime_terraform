@@ -1,0 +1,4 @@
+---
+create_user: danscap
+copy_local_key: "{{ lookup('file', lookup('env','HOME') + '/.ssh/id_rsa.pub') }}"
+sys_packages: [ 'npm', 'curl', 'jq', 'git', 'tree', 'ufw', 'autocutsel', 'nodejs', 'pngquant', 'ffmpeg', 'mplayer', 'python-pip', 'autoconf', 'automake', 'build-essential', 'python-setuptools', 'python-dev', 'libssl-dev', 'libtool', 'pkg-config', 'eog', 'gedit', 'nginx', 'postgresql', 'postgresql-contrib', 'python-certbot-nginx', 'x11vnc', 'xvfb', 'xfce4', 'xfce4-goodies', 'tightvncserver', 'sublime-text', 'gnome-system-monitor']

@@ -1,0 +1,30 @@
+---
+ - name: latest example playbook
+   gather_facts: true
+   hosts: all
+   tasks:
+
+   - name: show variables
+     debug:
+      msg: var=ansible_os_family
+   - block:
+     - name: install nginx
+       apt:
+        name: nginx
+        state: present
+     - name: start nginx
+       service:
+        name: nginx
+        state: started
+
+     - name: install nodejs
+       apt:
+        name: nodejs
+        state: present
+     when: ansible_os_family == "Ubuntu"
+     ignore_errors: yes
+
+   - block:
+     - name: Run example shell command
+       shell:
+        command: lscpu

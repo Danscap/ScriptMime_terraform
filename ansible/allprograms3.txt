@@ -1,0 +1,24 @@
+history.log.2.gz:Commandline: apt install python-pip
+history.log.3.gz:Commandline: apt install pngquant
+history.log.4.gz:Commandline: apt install ffmpeg
+history.log.4.gz:Commandline: apt install mplayer
+history.log.4.gz:Commandline: apt install git
+history.log.5.gz:Commandline: apt-get upgrade
+history.log.5.gz:Commandline: apt install autoconf automake build-essential python-setuptools python-dev libssl-dev libtool
+history.log.5.gz:Commandline: apt install pkg-config
+history.log.8.gz:Commandline: apt install eog
+history.log.8.gz:Commandline: apt-get install gedit
+history.log.8.gz:Commandline: apt-get install telegram
+history.log.8.gz:Commandline: apt-get purge --auto-remove telegram
+history.log.8.gz:Commandline: apt install gajim
+history.log.8.gz:Commandline: apt-get purge --auto-remove gajim
+history.log.9.gz:Commandline: apt-get install -qqy grub-efi-amd64-signed grub-efi-amd64 shim-signed
+history.log.9.gz:Commandline: apt-get install nginx
+history.log.9.gz:Commandline: apt install nodejs
+history.log.9.gz:Commandline: apt-get install build-essential
+history.log.9.gz:Commandline: apt-get install postgresql postgresql-contrib
+history.log.9.gz:Commandline: apt-get install python-certbot-nginx
+history.log.9.gz:Commandline: apt-get install x11vnc
+history.log.9.gz:Commandline: apt install xvfb
+history.log.9.gz:Commandline: apt install xfce4 xfce4-goodies tightvncserver
+Binary file allprograms2.txt matches

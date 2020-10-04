@@ -1,0 +1,1342 @@
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-04  06:10:09
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libwebkit2gtk-4.0-37:amd64 (2.28.3-0ubuntu0.18.04.1, 2.28.4-0ubuntu0.18.04.1), libjavascriptcoregtk-4.0-18:amd64 (2.28.3-0ubuntu0.18.04.1, 2.28.4-0ubuntu0.18.04.1)
+history.log.1.gz:End-Date: 2020-08-04  06:10:13
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-05  06:30:24
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libssh-gcrypt-4:amd64 (0.8.0~20170825.94fa1e38-1ubuntu0.6, 0.8.0~20170825.94fa1e38-1ubuntu0.7)
+history.log.1.gz:End-Date: 2020-08-05  06:30:25
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-05  06:30:29
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: python3-apport:amd64 (2.20.9-0ubuntu7.14, 2.20.9-0ubuntu7.16)
+history.log.1.gz:End-Date: 2020-08-05  06:30:30
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-05  06:30:33
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: python3-problem-report:amd64 (2.20.9-0ubuntu7.14, 2.20.9-0ubuntu7.16)
+history.log.1.gz:End-Date: 2020-08-05  06:30:34
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-05  06:30:37
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: apport:amd64 (2.20.9-0ubuntu7.14, 2.20.9-0ubuntu7.16)
+history.log.1.gz:End-Date: 2020-08-05  06:30:42
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-05  06:30:45
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: binutils:amd64 (2.30-21ubuntu1~18.04.3, 2.30-21ubuntu1~18.04.4), binutils-x86-64-linux-gnu:amd64 (2.30-21ubuntu1~18.04.3, 2.30-21ubuntu1~18.04.4), binutils-common:amd64 (2.30-21ubuntu1~18.04.3, 2.30-21ubuntu1~18.04.4), libbinutils:amd64 (2.30-21ubuntu1~18.04.3, 2.30-21ubuntu1~18.04.4)
+history.log.1.gz:End-Date: 2020-08-05  06:30:47
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-05  06:30:50
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: grub-common:amd64 (2.02-2ubuntu8.15, 2.02-2ubuntu8.17), grub2-common:amd64 (2.02-2ubuntu8.15, 2.02-2ubuntu8.17), grub-efi-amd64-bin:amd64 (2.02-2ubuntu8.15, 2.02-2ubuntu8.17), grub-efi-amd64:amd64 (2.02-2ubuntu8.15, 2.02-2ubuntu8.17), grub-efi-amd64-signed:amd64 (1.93.16+2.02-2ubuntu8.15, 1.93.19+2.02-2ubuntu8.17)
+history.log.1.gz:End-Date: 2020-08-05  06:30:56
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-11  06:57:58
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libnss3:amd64 (2:3.35-2ubuntu2.9, 2:3.35-2ubuntu2.11)
+history.log.1.gz:End-Date: 2020-08-11  06:57:59
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-11  06:58:03
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libwbclient0:amd64 (2:4.7.6+dfsg~ubuntu-0ubuntu2.17, 2:4.7.6+dfsg~ubuntu-0ubuntu2.18), samba-libs:amd64 (2:4.7.6+dfsg~ubuntu-0ubuntu2.17, 2:4.7.6+dfsg~ubuntu-0ubuntu2.18), libsmbclient:amd64 (2:4.7.6+dfsg~ubuntu-0ubuntu2.17, 2:4.7.6+dfsg~ubuntu-0ubuntu2.18)
+history.log.1.gz:End-Date: 2020-08-11  06:58:05
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-13  06:18:57
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: python3-software-properties:amd64 (0.96.24.32.12, 0.96.24.32.14), software-properties-common:amd64 (0.96.24.32.12, 0.96.24.32.14)
+history.log.1.gz:End-Date: 2020-08-13  06:18:59
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-18  06:32:08
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: python-pip-whl:amd64 (9.0.1-2.3~ubuntu1.18.04.1, 9.0.1-2.3~ubuntu1.18.04.2), python-pip:amd64 (9.0.1-2.3~ubuntu1.18.04.1, 9.0.1-2.3~ubuntu1.18.04.2)
+history.log.1.gz:End-Date: 2020-08-18  06:32:10
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-20  06:23:54
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libcurl3-gnutls:amd64 (7.58.0-2ubuntu3.9, 7.58.0-2ubuntu3.10)
+history.log.1.gz:End-Date: 2020-08-20  06:23:55
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-20  06:23:58
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libcurl4:amd64 (7.58.0-2ubuntu3.9, 7.58.0-2ubuntu3.10), curl:amd64 (7.58.0-2ubuntu3.9, 7.58.0-2ubuntu3.10)
+history.log.1.gz:End-Date: 2020-08-20  06:23:59
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-22  06:10:26
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libdns-export1100:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13)
+history.log.1.gz:End-Date: 2020-08-22  06:10:28
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-22  06:10:32
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libisc-export169:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13)
+history.log.1.gz:End-Date: 2020-08-22  06:10:34
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-22  06:10:39
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libisccfg160:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13), libirs160:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13), bind9-host:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13), dnsutils:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13), libisc169:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13), liblwres160:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13), libisccc160:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13), libbind9-160:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13), libdns1100:amd64 (1:9.11.3+dfsg-1ubuntu1.12, 1:9.11.3+dfsg-1ubuntu1.13)
+history.log.1.gz:End-Date: 2020-08-22  06:10:43
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-26  06:01:16
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libpq5:amd64 (10.12-0ubuntu0.18.04.1, 10.14-0ubuntu0.18.04.1)
+history.log.1.gz:End-Date: 2020-08-26  06:01:17
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-26  06:01:22
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: postgresql-10:amd64 (10.12-0ubuntu0.18.04.1, 10.14-0ubuntu0.18.04.1)
+history.log.1.gz:End-Date: 2020-08-26  06:01:28
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-26  06:01:32
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: postgresql-client-10:amd64 (10.12-0ubuntu0.18.04.1, 10.14-0ubuntu0.18.04.1)
+history.log.1.gz:End-Date: 2020-08-26  06:01:34
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-27  06:58:07
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libmysofa0:amd64 (0.6~dfsg0-2ubuntu0.18.04.1, 0.6~dfsg0-3+deb10u1build1)
+history.log.1.gz:End-Date: 2020-08-27  06:58:08
+history.log.1.gz:
+history.log.1.gz:Start-Date: 2020-08-28  06:40:19
+history.log.1.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.1.gz:Upgrade: libnss3:amd64 (2:3.35-2ubuntu2.11, 2:3.35-2ubuntu2.12)
+history.log.1.gz:End-Date: 2020-08-28  06:40:20
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-02  06:19:04
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libvncclient1:amd64 (0.9.11+dfsg-1ubuntu1.1, 0.9.11+dfsg-1ubuntu1.2)
+history.log.2.gz:End-Date: 2020-07-02  06:19:05
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-02  06:19:09
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libvncserver1:amd64 (0.9.11+dfsg-1ubuntu1.1, 0.9.11+dfsg-1ubuntu1.2)
+history.log.2.gz:End-Date: 2020-07-02  06:19:09
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-03  06:08:16
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-108.109, 4.15.0-109.110)
+history.log.2.gz:End-Date: 2020-07-03  06:08:18
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-03  06:08:21
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libwbclient0:amd64 (2:4.7.6+dfsg~ubuntu-0ubuntu2.16, 2:4.7.6+dfsg~ubuntu-0ubuntu2.17), samba-libs:amd64 (2:4.7.6+dfsg~ubuntu-0ubuntu2.16, 2:4.7.6+dfsg~ubuntu-0ubuntu2.17), libsmbclient:amd64 (2:4.7.6+dfsg~ubuntu-0ubuntu2.16, 2:4.7.6+dfsg~ubuntu-0ubuntu2.17)
+history.log.2.gz:End-Date: 2020-07-03  06:08:23
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-03  06:08:26
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Install: linux-headers-4.15.0-109-generic:amd64 (4.15.0-109.110, automatic), linux-image-4.15.0-109-generic:amd64 (4.15.0-109.110, automatic), linux-modules-4.15.0-109-generic:amd64 (4.15.0-109.110, automatic), linux-headers-4.15.0-109:amd64 (4.15.0-109.110, automatic)
+history.log.2.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.108.96, 4.15.0.109.97), linux-virtual:amd64 (4.15.0.108.96, 4.15.0.109.97), linux-headers-virtual:amd64 (4.15.0.108.96, 4.15.0.109.97), linux-image-virtual:amd64 (4.15.0.108.96, 4.15.0.109.97)
+history.log.2.gz:End-Date: 2020-07-03  06:08:46
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-04  06:41:24
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-image-4.15.0-106-generic:amd64 (4.15.0-106.107)
+history.log.2.gz:End-Date: 2020-07-04  06:41:27
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-04  06:41:30
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-modules-4.15.0-106-generic:amd64 (4.15.0-106.107)
+history.log.2.gz:End-Date: 2020-07-04  06:41:31
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-04  06:41:34
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-headers-4.15.0-106-generic:amd64 (4.15.0-106.107)
+history.log.2.gz:End-Date: 2020-07-04  06:41:35
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-04  06:41:38
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-headers-4.15.0-106:amd64 (4.15.0-106.107)
+history.log.2.gz:End-Date: 2020-07-04  06:41:40
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-07  06:23:34
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libc-bin:amd64 (2.27-3ubuntu1, 2.27-3ubuntu1.2)
+history.log.2.gz:End-Date: 2020-07-07  06:23:36
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-07  06:23:40
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libnss3:amd64 (2:3.35-2ubuntu2.8, 2:3.35-2ubuntu2.9)
+history.log.2.gz:End-Date: 2020-07-07  06:23:40
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-07  06:23:44
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: linux-base:amd64 (4.5ubuntu1.1, 4.5ubuntu1.2)
+history.log.2.gz:End-Date: 2020-07-07  06:23:46
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-07  06:23:50
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: locales:amd64 (2.27-3ubuntu1, 2.27-3ubuntu1.2)
+history.log.2.gz:End-Date: 2020-07-07  06:23:54
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-07  06:23:58
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: multiarch-support:amd64 (2.27-3ubuntu1, 2.27-3ubuntu1.2)
+history.log.2.gz:End-Date: 2020-07-07  06:23:58
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-07  06:24:02
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libc6-dev:amd64 (2.27-3ubuntu1, 2.27-3ubuntu1.2), libc6:amd64 (2.27-3ubuntu1, 2.27-3ubuntu1.2), libc-dev-bin:amd64 (2.27-3ubuntu1, 2.27-3ubuntu1.2)
+history.log.2.gz:End-Date: 2020-07-07  06:24:06
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-08  06:31:53
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: python3-httplib2:amd64 (0.9.2+dfsg-1ubuntu0.1, 0.9.2+dfsg-1ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-08  06:31:54
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-15  06:39:07
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-109.110, 4.15.0-111.112)
+history.log.2.gz:End-Date: 2020-07-15  06:39:08
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-15  06:39:11
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libwebkit2gtk-4.0-37:amd64 (2.28.2-0ubuntu0.18.04.1, 2.28.3-0ubuntu0.18.04.1), libjavascriptcoregtk-4.0-18:amd64 (2.28.2-0ubuntu0.18.04.1, 2.28.3-0ubuntu0.18.04.1)
+history.log.2.gz:End-Date: 2020-07-15  06:39:14
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-15  06:39:17
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Install: linux-headers-4.15.0-111-generic:amd64 (4.15.0-111.112, automatic), linux-modules-4.15.0-111-generic:amd64 (4.15.0-111.112, automatic), linux-image-4.15.0-111-generic:amd64 (4.15.0-111.112, automatic), linux-headers-4.15.0-111:amd64 (4.15.0-111.112, automatic)
+history.log.2.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.109.97, 4.15.0.111.99), linux-virtual:amd64 (4.15.0.109.97, 4.15.0.111.99), linux-headers-virtual:amd64 (4.15.0.109.97, 4.15.0.111.99), linux-image-virtual:amd64 (4.15.0.109.97, 4.15.0.111.99)
+history.log.2.gz:End-Date: 2020-07-15  06:39:36
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-16  06:18:55
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-headers-4.15.0-108-generic:amd64 (4.15.0-108.109)
+history.log.2.gz:End-Date: 2020-07-16  06:18:57
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-16  06:19:01
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-image-4.15.0-108-generic:amd64 (4.15.0-108.109)
+history.log.2.gz:End-Date: 2020-07-16  06:19:06
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-16  06:19:09
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-modules-4.15.0-108-generic:amd64 (4.15.0-108.109)
+history.log.2.gz:End-Date: 2020-07-16  06:19:10
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-16  06:19:14
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-headers-4.15.0-108:amd64 (4.15.0-108.109)
+history.log.2.gz:End-Date: 2020-07-16  06:19:15
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-16  06:19:22
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: snapd:amd64 (2.42.1+18.04, 2.45.1+18.04.2)
+history.log.2.gz:End-Date: 2020-07-16  06:19:32
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-22  06:49:32
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-111.112, 4.15.0-112.113)
+history.log.2.gz:End-Date: 2020-07-22  06:49:34
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-22  06:49:40
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Install: linux-headers-4.15.0-112-generic:amd64 (4.15.0-112.113, automatic), linux-modules-4.15.0-112-generic:amd64 (4.15.0-112.113, automatic), linux-image-4.15.0-112-generic:amd64 (4.15.0-112.113, automatic), linux-headers-4.15.0-112:amd64 (4.15.0-112.113, automatic)
+history.log.2.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.111.99, 4.15.0.112.100), linux-virtual:amd64 (4.15.0.111.99, 4.15.0.112.100), linux-headers-virtual:amd64 (4.15.0.111.99, 4.15.0.112.100), linux-image-virtual:amd64 (4.15.0.111.99, 4.15.0.112.100)
+history.log.2.gz:End-Date: 2020-07-22  06:50:12
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-22  20:22:28
+history.log.2.gz:Commandline: apt install python-pip
+history.log.2.gz:Requested-By: danscap (1000)
+history.log.2.gz:Install: python-six:amd64 (1.11.0-2, automatic), python-xdg:amd64 (0.25-4ubuntu1, automatic), python-gi:amd64 (3.26.1-2ubuntu1, automatic), python-dbus:amd64 (1.2.6-1, automatic), libpython-all-dev:amd64 (2.7.15~rc1-1, automatic), python-enum34:amd64 (1.1.6-2, automatic), python-cryptography:amd64 (2.1.4-1ubuntu1.3, automatic), python-crypto:amd64 (2.6.1-8ubuntu2, automatic), python-keyrings.alt:amd64 (3.0-1, automatic), python-cffi-backend:amd64 (1.11.5-1, automatic), python-ipaddress:amd64 (1.0.17-1, automatic), python-all:amd64 (2.7.15~rc1-1, automatic), python-secretstorage:amd64 (2.3.1-2, automatic), python-keyring:amd64 (10.6.0-1, automatic), python-idna:amd64 (2.6-1, automatic), python-wheel:amd64 (0.30.0-0.2, automatic), python-pip-whl:amd64 (9.0.1-2.3~ubuntu1.18.04.1, automatic), python-pip:amd64 (9.0.1-2.3~ubuntu1.18.04.1), python-asn1crypto:amd64 (0.24.0-1, automatic), python-all-dev:amd64 (2.7.15~rc1-1, automatic)
+history.log.2.gz:End-Date: 2020-07-22  20:22:40
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:00
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-image-4.15.0-109-generic:amd64 (4.15.0-109.110), linux-modules-4.15.0-109-generic:amd64 (4.15.0-109.110)
+history.log.2.gz:End-Date: 2020-07-23  06:30:04
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:07
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Remove: linux-headers-4.15.0-109-generic:amd64 (4.15.0-109.110), linux-headers-4.15.0-109:amd64 (4.15.0-109.110)
+history.log.2.gz:End-Date: 2020-07-23  06:30:10
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:23
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libavutil55:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:30:23
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:26
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libavresample3:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:30:27
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:30
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libpostproc54:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:30:30
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:33
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libswresample2:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:30:34
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:38
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libswscale4:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:30:38
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:42
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libavcodec57:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:30:44
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:48
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libavformat57:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:30:48
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:30:53
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libpython3.6-minimal:amd64 (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.1), libpython3.6-stdlib:amd64 (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.1), libpython3.6:amd64 (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.1), python3.6:amd64 (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.1), python3.6-minimal:amd64 (3.6.9-1~18.04ubuntu1, 3.6.9-1~18.04ubuntu1.1)
+history.log.2.gz:End-Date: 2020-07-23  06:30:58
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:31:02
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: python2.7-dev:amd64 (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.1), python2.7-minimal:amd64 (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.1), libpython2.7:amd64 (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.1), python2.7:amd64 (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.1), libpython2.7-dev:amd64 (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.1), libpython2.7-minimal:amd64 (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.1), libpython2.7-stdlib:amd64 (2.7.17-1~18.04ubuntu1, 2.7.17-1~18.04ubuntu1.1)
+history.log.2.gz:End-Date: 2020-07-23  06:31:11
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:31:15
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libavfilter6:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:31:16
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:31:20
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libavdevice57:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:31:21
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-23  06:31:25
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: ffmpeg:amd64 (7:3.4.6-0ubuntu0.18.04.1, 7:3.4.8-0ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-23  06:31:27
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-24  06:01:30
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libseccomp2:amd64 (2.4.3-1ubuntu3.18.04.2, 2.4.3-1ubuntu3.18.04.3)
+history.log.2.gz:End-Date: 2020-07-24  06:01:31
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-24  06:01:36
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libvncclient1:amd64 (0.9.11+dfsg-1ubuntu1.2, 0.9.11+dfsg-1ubuntu1.3)
+history.log.2.gz:End-Date: 2020-07-24  06:01:36
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-24  06:01:41
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: libvncserver1:amd64 (0.9.11+dfsg-1ubuntu1.2, 0.9.11+dfsg-1ubuntu1.3)
+history.log.2.gz:End-Date: 2020-07-24  06:01:41
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-28  06:25:11
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: librsvg2-common:amd64 (2.40.20-2, 2.40.20-2ubuntu0.1), librsvg2-2:amd64 (2.40.20-2, 2.40.20-2ubuntu0.1)
+history.log.2.gz:End-Date: 2020-07-28  06:25:13
+history.log.2.gz:
+history.log.2.gz:Start-Date: 2020-07-30  06:13:43
+history.log.2.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.2.gz:Upgrade: librsvg2-common:amd64 (2.40.20-2ubuntu0.1, 2.40.20-2ubuntu0.2), librsvg2-2:amd64 (2.40.20-2ubuntu0.1, 2.40.20-2ubuntu0.2)
+history.log.2.gz:End-Date: 2020-07-30  06:13:43
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-02  06:32:03
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: ca-certificates:amd64 (20180409, 20190110~18.04.1)
+history.log.3.gz:End-Date: 2020-06-02  06:32:08
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-10  06:46:19
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: libjpeg-turbo-progs:amd64 (1.5.2-0ubuntu5.18.04.3, 1.5.2-0ubuntu5.18.04.4)
+history.log.3.gz:End-Date: 2020-06-10  06:46:21
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-10  06:46:25
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: libjpeg-turbo8:amd64 (1.5.2-0ubuntu5.18.04.3, 1.5.2-0ubuntu5.18.04.4)
+history.log.3.gz:End-Date: 2020-06-10  06:46:26
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-10  06:46:29
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-101.102, 4.15.0-106.107)
+history.log.3.gz:End-Date: 2020-06-10  06:46:31
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-10  06:46:34
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Install: linux-headers-4.15.0-106-generic:amd64 (4.15.0-106.107, automatic), linux-modules-4.15.0-106-generic:amd64 (4.15.0-106.107, automatic), linux-image-4.15.0-106-generic:amd64 (4.15.0-106.107, automatic), linux-headers-4.15.0-106:amd64 (4.15.0-106.107, automatic)
+history.log.3.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.101.91, 4.15.0.106.94), linux-virtual:amd64 (4.15.0.101.91, 4.15.0.106.94), linux-headers-virtual:amd64 (4.15.0.101.91, 4.15.0.106.94), linux-image-virtual:amd64 (4.15.0.101.91, 4.15.0.106.94)
+history.log.3.gz:End-Date: 2020-06-10  06:46:57
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-11  06:39:54
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Remove: linux-headers-4.15.0-99:amd64 (4.15.0-99.100), linux-headers-4.15.0-99-generic:amd64 (4.15.0-99.100)
+history.log.3.gz:End-Date: 2020-06-11  06:39:58
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-11  06:40:03
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Remove: linux-image-4.15.0-99-generic:amd64 (4.15.0-99.100)
+history.log.3.gz:End-Date: 2020-06-11  06:40:08
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-11  06:40:12
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Remove: linux-modules-4.15.0-99-generic:amd64 (4.15.0-99.100)
+history.log.3.gz:End-Date: 2020-06-11  06:40:13
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-11  06:40:20
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: libsqlite3-0:amd64 (3.22.0-1ubuntu0.3, 3.22.0-1ubuntu0.4)
+history.log.3.gz:End-Date: 2020-06-11  06:40:21
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-11  21:21:50
+history.log.3.gz:Commandline: apt install pngquant
+history.log.3.gz:Requested-By: danscap (1000)
+history.log.3.gz:Install: pngquant:amd64 (2.5.0-2)
+history.log.3.gz:End-Date: 2020-06-11  21:21:51
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-17  06:43:00
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: libexif12:amd64 (0.6.21-4ubuntu0.2, 0.6.21-4ubuntu0.5)
+history.log.3.gz:End-Date: 2020-06-17  06:43:01
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-17  06:43:07
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: libnss3:amd64 (2:3.35-2ubuntu2.7, 2:3.35-2ubuntu2.8)
+history.log.3.gz:End-Date: 2020-06-17  06:43:08
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-17  06:43:14
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: dbus-x11:amd64 (1.12.2-1ubuntu1.1, 1.12.2-1ubuntu1.2), libdbus-1-3:amd64 (1.12.2-1ubuntu1.1, 1.12.2-1ubuntu1.2), dbus:amd64 (1.12.2-1ubuntu1.1, 1.12.2-1ubuntu1.2)
+history.log.3.gz:End-Date: 2020-06-17  06:43:19
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-17  06:43:25
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: dbus-user-session:amd64 (1.12.2-1ubuntu1.1, 1.12.2-1ubuntu1.2)
+history.log.3.gz:End-Date: 2020-06-17  06:43:26
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-25  06:59:09
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: libcurl3-gnutls:amd64 (7.58.0-2ubuntu3.8, 7.58.0-2ubuntu3.9)
+history.log.3.gz:End-Date: 2020-06-25  06:59:10
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-25  06:59:13
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: libcurl4:amd64 (7.58.0-2ubuntu3.8, 7.58.0-2ubuntu3.9), curl:amd64 (7.58.0-2ubuntu3.8, 7.58.0-2ubuntu3.9)
+history.log.3.gz:End-Date: 2020-06-25  06:59:14
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-26  06:40:07
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-106.107, 4.15.0-108.109)
+history.log.3.gz:End-Date: 2020-06-26  06:40:08
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-26  06:40:11
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Install: linux-headers-4.15.0-108-generic:amd64 (4.15.0-108.109, automatic), linux-modules-4.15.0-108-generic:amd64 (4.15.0-108.109, automatic), linux-image-4.15.0-108-generic:amd64 (4.15.0-108.109, automatic), linux-headers-4.15.0-108:amd64 (4.15.0-108.109, automatic)
+history.log.3.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.106.94, 4.15.0.108.96), linux-virtual:amd64 (4.15.0.106.94, 4.15.0.108.96), linux-headers-virtual:amd64 (4.15.0.106.94, 4.15.0.108.96), linux-image-virtual:amd64 (4.15.0.106.94, 4.15.0.108.96)
+history.log.3.gz:End-Date: 2020-06-26  06:40:33
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-27  06:59:02
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Remove: linux-headers-4.15.0-101-generic:amd64 (4.15.0-101.102)
+history.log.3.gz:End-Date: 2020-06-27  06:59:04
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-27  06:59:06
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Remove: linux-headers-4.15.0-101:amd64 (4.15.0-101.102)
+history.log.3.gz:End-Date: 2020-06-27  06:59:08
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-27  06:59:11
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Remove: linux-image-4.15.0-101-generic:amd64 (4.15.0-101.102)
+history.log.3.gz:End-Date: 2020-06-27  06:59:15
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-27  06:59:18
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Remove: linux-modules-4.15.0-101-generic:amd64 (4.15.0-101.102)
+history.log.3.gz:End-Date: 2020-06-27  06:59:18
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-29  06:17:40
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: glib-networking-common:amd64 (2.56.0-1, 2.56.0-1ubuntu0.1)
+history.log.3.gz:End-Date: 2020-06-29  06:17:40
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-29  06:17:43
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: glib-networking-services:amd64 (2.56.0-1, 2.56.0-1ubuntu0.1)
+history.log.3.gz:End-Date: 2020-06-29  06:17:44
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-29  06:17:47
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: glib-networking:amd64 (2.56.0-1, 2.56.0-1ubuntu0.1)
+history.log.3.gz:End-Date: 2020-06-29  06:17:47
+history.log.3.gz:
+history.log.3.gz:Start-Date: 2020-06-30  06:42:57
+history.log.3.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.3.gz:Upgrade: libseccomp2:amd64 (2.4.1-0ubuntu0.18.04.2, 2.4.3-1ubuntu3.18.04.2)
+history.log.3.gz:End-Date: 2020-06-30  06:42:58
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-01  06:49:22
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Remove: linux-headers-4.15.0-91-generic:amd64 (4.15.0-91.92)
+history.log.4.gz:End-Date: 2020-05-01  06:49:24
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-01  06:49:26
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Remove: linux-headers-4.15.0-91:amd64 (4.15.0-91.92)
+history.log.4.gz:End-Date: 2020-05-01  06:49:27
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-01  06:49:30
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Remove: linux-image-4.15.0-91-generic:amd64 (4.15.0-91.92), linux-modules-4.15.0-91-generic:amd64 (4.15.0-91.92)
+history.log.4.gz:End-Date: 2020-05-01  06:49:33
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-07  06:55:38
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libldap-common:amd64 (2.4.45+dfsg-1ubuntu1.4, 2.4.45+dfsg-1ubuntu1.5)
+history.log.4.gz:End-Date: 2020-05-07  06:55:39
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-07  06:55:43
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libldap-2.4-2:amd64 (2.4.45+dfsg-1ubuntu1.4, 2.4.45+dfsg-1ubuntu1.5)
+history.log.4.gz:End-Date: 2020-05-07  06:55:44
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-07  22:12:55
+history.log.4.gz:Commandline: apt install ffmpeg
+history.log.4.gz:Requested-By: danscap (1000)
+history.log.4.gz:Install: libx265-146:amd64 (2.6-3, automatic), libdc1394-22:amd64 (2.2.5-1, automatic), libavformat57:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libsnappy1v5:amd64 (1.1.7-1, automatic), libopenjp2-7:amd64 (2.3.0-2build0.18.04.1, automatic), libavfilter6:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libchromaprint1:amd64 (1.4.3-1, automatic), ffmpeg:amd64 (7:3.4.6-0ubuntu0.18.04.1), libcrystalhd3:amd64 (1:0.0~git20110715.fdd2f19-12, automatic), libnorm1:amd64 (1.5r6+dfsg1-6, automatic), libopenal1:amd64 (1:1.18.2-2, automatic), va-driver-all:amd64 (2.1.0-3, automatic), libsndio6.1:amd64 (1.1.0-3, automatic), libswresample2:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libpgm-5.2-0:amd64 (5.2.122~dfsg-2, automatic), libzmq5:amd64 (4.2.5-1ubuntu0.2, automatic), libcdio17:amd64 (1.0.0-2ubuntu2, automatic), libopenmpt0:amd64 (0.3.6-1, automatic), libvdpau1:amd64 (1.1.1-3ubuntu1, automatic), libcdio-cdda2:amd64 (10.2+0.94+2-2build1, automatic), libbdplus0:amd64 (0.1.2-2, automatic), vdpau-driver-all:amd64 (1.1.1-3ubuntu1, automatic), librubberband2:amd64 (1.8.1-7ubuntu2, automatic), libopenal-data:amd64 (1:1.18.2-2, automatic), libpostproc54:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libcdio-paranoia2:amd64 (10.2+0.94+2-2build1, automatic), libva2:amd64 (2.1.0-3, automatic), libx264-152:amd64 (2:0.152.2854+gite9a5903-2, automatic), libass9:amd64 (1:0.14.0-1, automatic), libxvidcore4:amd64 (2:1.3.5-1, automatic), libzvbi0:amd64 (0.2.35-13, automatic), libaacs0:amd64 (0.9.0-1, automatic), libavcodec57:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libavutil55:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libgme0:amd64 (0.6.2-1, automatic), libavdevice57:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libssh-gcrypt-4:amd64 (0.8.0~20170825.94fa1e38-1ubuntu0.6, automatic), libsoxr0:amd64 (0.1.2-3, automatic), libwebpmux3:amd64 (0.6.1-2, automatic), libswscale4:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libsdl2-2.0-0:amd64 (2.0.8+dfsg1-1ubuntu1.18.04.4, automatic), libmysofa0:amd64 (0.6~dfsg0-2ubuntu0.18.04.1, automatic), libsodium23:amd64 (1.0.16-2, automatic), libfftw3-double3:amd64 (3.3.7-1, automatic), libshine3:amd64 (3.1.1-1, automatic), libgsm1:amd64 (1.0.13-4build1, automatic), libva-x11-2:amd64 (2.1.0-3, automatic), libbs2b0:amd64 (3.1.0+dfsg-2.2, automatic), libva-drm2:amd64 (2.1.0-3, automatic), mesa-vdpau-drivers:amd64 (19.2.8-0ubuntu0~18.04.3, automatic), i965-va-driver:amd64 (2.1.0-0ubuntu1, automatic), libzvbi-common:amd64 (0.2.35-13, automatic), libbluray2:amd64 (1:1.0.2-3, automatic), libavresample3:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libflite1:amd64 (2.1-release-1, automatic), mesa-va-drivers:amd64 (19.2.8-0ubuntu0~18.04.3, automatic)
+history.log.4.gz:End-Date: 2020-05-07  22:13:05
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-08  20:09:50
+history.log.4.gz:Commandline: apt install mplayer
+history.log.4.gz:Requested-By: danscap (1000)
+history.log.4.gz:Install: libldb1:amd64 (2:1.2.3-1ubuntu0.1, automatic), libvorbisidec1:amd64 (1.0.2+svn18153-1+deb9u1build0.18.04.1, automatic), libwbclient0:amd64 (2:4.7.6+dfsg~ubuntu-0ubuntu2.16, automatic), libdvdread4:amd64 (6.0.0-1, automatic), liba52-0.7.4:amd64 (0.7.4-19, automatic), libdca0:amd64 (0.0.5-10, automatic), libgles2:amd64 (1.0.0-2ubuntu2.3, automatic), libdvdnav4:amd64 (6.0.0-1, automatic), libtalloc2:amd64 (2.1.10-2ubuntu1, automatic), python-talloc:amd64 (2.1.10-2ubuntu1, automatic), samba-libs:amd64 (2:4.7.6+dfsg~ubuntu-0ubuntu2.16, automatic), libgif7:amd64 (5.1.4-2ubuntu0.1, automatic), libsdl1.2debian:amd64 (1.2.15+dfsg2-0.1ubuntu0.1, automatic), libmad0:amd64 (0.15.1b-9ubuntu18.04.1, automatic), libsmbclient:amd64 (2:4.7.6+dfsg~ubuntu-0ubuntu2.16, automatic), libmpeg2-4:amd64 (0.5.1-8, automatic), libenca0:amd64 (1.19-1, automatic), libjansson4:amd64 (2.11-1, automatic), libdirectfb-1.7-7:amd64 (1.7.7-8, automatic), libtevent0:amd64 (0.9.34-1, automatic), liblirc-client0:amd64 (0.10.0-2, automatic), libaudio2:amd64 (1.9.4-6, automatic), libfaad2:amd64 (2.8.8-1, automatic), mplayer:amd64 (2:1.3.0-7build2)
+history.log.4.gz:End-Date: 2020-05-08  20:09:54
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-13  06:41:26
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Install: libsnapd-glib1:amd64 (1.49-0ubuntu0.18.04.2, automatic)
+history.log.4.gz:Upgrade: libpulsedsp:amd64 (1:11.1-1ubuntu7.4, 1:11.1-1ubuntu7.7), pulseaudio:amd64 (1:11.1-1ubuntu7.4, 1:11.1-1ubuntu7.7), libpulse0:amd64 (1:11.1-1ubuntu7.4, 1:11.1-1ubuntu7.7), libpulse-mainloop-glib0:amd64 (1:11.1-1ubuntu7.4, 1:11.1-1ubuntu7.7), pulseaudio-utils:amd64 (1:11.1-1ubuntu7.4, 1:11.1-1ubuntu7.7)
+history.log.4.gz:End-Date: 2020-05-13  06:41:28
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-14  06:50:00
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: iproute2:amd64 (4.15.0-2ubuntu1, 4.15.0-2ubuntu1.1)
+history.log.4.gz:End-Date: 2020-05-14  06:50:02
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-14  06:50:05
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libexif12:amd64 (0.6.21-4ubuntu0.1, 0.6.21-4ubuntu0.2)
+history.log.4.gz:End-Date: 2020-05-14  06:50:06
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-14  06:50:09
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libmagic1:amd64 (1:5.32-2ubuntu0.3, 1:5.32-2ubuntu0.4), libmagic-mgc:amd64 (1:5.32-2ubuntu0.3, 1:5.32-2ubuntu0.4), file:amd64 (1:5.32-2ubuntu0.3, 1:5.32-2ubuntu0.4)
+history.log.4.gz:End-Date: 2020-05-14  06:50:11
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-15  06:21:59
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libapt-inst2.0:amd64 (1.6.12, 1.6.12ubuntu0.1)
+history.log.4.gz:End-Date: 2020-05-15  06:22:00
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-15  06:22:04
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libjson-c3:amd64 (0.12.1-1.3, 0.12.1-1.3ubuntu0.1)
+history.log.4.gz:End-Date: 2020-05-15  06:22:05
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-15  06:22:08
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: apt:amd64 (1.6.12, 1.6.12ubuntu0.1), libapt-pkg5.0:amd64 (1.6.12, 1.6.12ubuntu0.1), apt-utils:amd64 (1.6.12, 1.6.12ubuntu0.1)
+history.log.4.gz:End-Date: 2020-05-15  06:22:15
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-15  19:39:58
+history.log.4.gz:Commandline: apt upgrade
+history.log.4.gz:Requested-By: danscap (1000)
+history.log.4.gz:Install: libnetplan0:amd64 (0.99-0ubuntu3~18.04.1, automatic)
+history.log.4.gz:Upgrade: netplan.io:amd64 (0.98-0ubuntu1~18.04.1, 0.99-0ubuntu3~18.04.1), libsystemd0:amd64 (237-3ubuntu10.39, 237-3ubuntu10.40), open-iscsi:amd64 (2.0.874-5ubuntu2.7, 2.0.874-5ubuntu2.9), udev:amd64 (237-3ubuntu10.39, 237-3ubuntu10.40), xserver-xorg-input-wacom:amd64 (1:0.36.1-0ubuntu1, 1:0.36.1-0ubuntu1.1), libudev1:amd64 (237-3ubuntu10.39, 237-3ubuntu10.40), nplan:amd64 (0.98-0ubuntu1~18.04.1, 0.99-0ubuntu3~18.04.1), systemd-sysv:amd64 (237-3ubuntu10.39, 237-3ubuntu10.40), libpam-systemd:amd64 (237-3ubuntu10.39, 237-3ubuntu10.40), systemd:amd64 (237-3ubuntu10.39, 237-3ubuntu10.40), sosreport:amd64 (3.9-1ubuntu0.18.04.2, 3.9-1ubuntu0.18.04.3), libnss-systemd:amd64 (237-3ubuntu10.39, 237-3ubuntu10.40), libjson-c3:amd64 (0.12.1-1.3ubuntu0.1, 0.12.1-1.3ubuntu0.2)
+history.log.4.gz:End-Date: 2020-05-15  19:40:17
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-15  19:43:23
+history.log.4.gz:Commandline: apt install git
+history.log.4.gz:Requested-By: danscap (1000)
+history.log.4.gz:Install: libpcre2-8-0:amd64 (10.31-2, automatic)
+history.log.4.gz:Upgrade: git-man:amd64 (1:2.17.1-1ubuntu0.7, 1:2.26.2-0ppa1~ubuntu18.04.1), git:amd64 (1:2.17.1-1ubuntu0.7, 1:2.26.2-0ppa1~ubuntu18.04.1)
+history.log.4.gz:End-Date: 2020-05-15  19:43:27
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-20  06:27:56
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libdns-export1100:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12)
+history.log.4.gz:End-Date: 2020-05-20  06:27:57
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-20  06:28:00
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libisc-export169:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12)
+history.log.4.gz:End-Date: 2020-05-20  06:28:00
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-20  06:28:02
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-99.100, 4.15.0-101.102)
+history.log.4.gz:End-Date: 2020-05-20  06:28:03
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-20  06:28:05
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Install: linux-image-4.15.0-101-generic:amd64 (4.15.0-101.102, automatic), linux-headers-4.15.0-101:amd64 (4.15.0-101.102, automatic), linux-headers-4.15.0-101-generic:amd64 (4.15.0-101.102, automatic), linux-modules-4.15.0-101-generic:amd64 (4.15.0-101.102, automatic)
+history.log.4.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.99.89, 4.15.0.101.91), linux-virtual:amd64 (4.15.0.99.89, 4.15.0.101.91), linux-headers-virtual:amd64 (4.15.0.99.89, 4.15.0.101.91), linux-image-virtual:amd64 (4.15.0.99.89, 4.15.0.101.91)
+history.log.4.gz:End-Date: 2020-05-20  06:28:22
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-20  06:28:25
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libisccfg160:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12), libirs160:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12), bind9-host:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12), dnsutils:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12), libisc169:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12), liblwres160:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12), libisccc160:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12), libbind9-160:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12), libdns1100:amd64 (1:9.11.3+dfsg-1ubuntu1.11, 1:9.11.3+dfsg-1ubuntu1.12)
+history.log.4.gz:End-Date: 2020-05-20  06:28:26
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-21  06:38:04
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Remove: linux-modules-4.15.0-96-generic:amd64 (4.15.0-96.97), linux-image-4.15.0-96-generic:amd64 (4.15.0-96.97)
+history.log.4.gz:End-Date: 2020-05-21  06:38:07
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-21  06:38:10
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Remove: linux-headers-4.15.0-96-generic:amd64 (4.15.0-96.97), linux-headers-4.15.0-96:amd64 (4.15.0-96.97)
+history.log.4.gz:End-Date: 2020-05-21  06:38:12
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-21  06:38:17
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: tzdata:amd64 (2019c-0ubuntu0.18.04, 2020a-0ubuntu0.18.04)
+history.log.4.gz:End-Date: 2020-05-21  06:38:18
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-29  06:01:50
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libjson-c3:amd64 (0.12.1-1.3ubuntu0.2, 0.12.1-1.3ubuntu0.3)
+history.log.4.gz:End-Date: 2020-05-29  06:01:51
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-29  06:01:53
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: openssl:amd64 (1.1.1-1ubuntu2.1~18.04.5, 1.1.1-1ubuntu2.1~18.04.6)
+history.log.4.gz:End-Date: 2020-05-29  06:01:55
+history.log.4.gz:
+history.log.4.gz:Start-Date: 2020-05-29  06:01:58
+history.log.4.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.4.gz:Upgrade: libssl-dev:amd64 (1.1.1-1ubuntu2.1~18.04.5, 1.1.1-1ubuntu2.1~18.04.6), libssl1.1:amd64 (1.1.1-1ubuntu2.1~18.04.5, 1.1.1-1ubuntu2.1~18.04.6)
+history.log.4.gz:End-Date: 2020-05-29  06:01:59
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-02  06:11:38
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: python3-apport:amd64 (2.20.9-0ubuntu7.12, 2.20.9-0ubuntu7.14)
+history.log.5.gz:End-Date: 2020-04-02  06:11:39
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-02  06:11:43
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: python3-problem-report:amd64 (2.20.9-0ubuntu7.12, 2.20.9-0ubuntu7.14)
+history.log.5.gz:End-Date: 2020-04-02  06:11:43
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-02  06:11:47
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: apport:amd64 (2.20.9-0ubuntu7.12, 2.20.9-0ubuntu7.14)
+history.log.5.gz:End-Date: 2020-04-02  06:11:52
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-04  06:08:54
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: libgd3:amd64 (2.2.5-4ubuntu0.3, 2.2.5-4ubuntu0.4)
+history.log.5.gz:End-Date: 2020-04-04  06:08:55
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-07  06:07:15
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-91.92, 4.15.0-96.97)
+history.log.5.gz:End-Date: 2020-04-07  06:07:15
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-07  06:07:18
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Install: linux-headers-4.15.0-96-generic:amd64 (4.15.0-96.97, automatic), linux-modules-4.15.0-96-generic:amd64 (4.15.0-96.97, automatic), linux-headers-4.15.0-96:amd64 (4.15.0-96.97, automatic), linux-image-4.15.0-96-generic:amd64 (4.15.0-96.97, automatic)
+history.log.5.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.91.83, 4.15.0.96.87), linux-virtual:amd64 (4.15.0.91.83, 4.15.0.96.87), linux-headers-virtual:amd64 (4.15.0.91.83, 4.15.0.96.87), linux-image-virtual:amd64 (4.15.0.91.83, 4.15.0.96.87)
+history.log.5.gz:End-Date: 2020-04-07  06:07:36
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-15  06:21:01
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: git:amd64 (1:2.17.1-1ubuntu0.5, 1:2.17.1-1ubuntu0.6)
+history.log.5.gz:End-Date: 2020-04-15  06:21:02
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-15  06:21:05
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: git-man:amd64 (1:2.17.1-1ubuntu0.5, 1:2.17.1-1ubuntu0.6)
+history.log.5.gz:End-Date: 2020-04-15  06:21:07
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-21  06:20:03
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: libwebkit2gtk-4.0-37:amd64 (2.28.0-0ubuntu0.18.04.3, 2.28.1-0ubuntu0.18.04.1), libjavascriptcoregtk-4.0-18:amd64 (2.28.0-0ubuntu0.18.04.3, 2.28.1-0ubuntu0.18.04.1)
+history.log.5.gz:End-Date: 2020-04-21  06:20:06
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-22  06:46:44
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: git:amd64 (1:2.17.1-1ubuntu0.6, 1:2.17.1-1ubuntu0.7)
+history.log.5.gz:End-Date: 2020-04-22  06:46:45
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-22  06:46:49
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: git-man:amd64 (1:2.17.1-1ubuntu0.6, 1:2.17.1-1ubuntu0.7)
+history.log.5.gz:End-Date: 2020-04-22  06:46:54
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-22  06:46:58
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: python2.7-minimal:amd64 (2.7.15-4ubuntu4~18.04.2, 2.7.17-1~18.04ubuntu1), python2.7:amd64 (2.7.15-4ubuntu4~18.04.2, 2.7.17-1~18.04ubuntu1), libpython2.7-minimal:amd64 (2.7.15-4ubuntu4~18.04.2, 2.7.17-1~18.04ubuntu1), libpython2.7-stdlib:amd64 (2.7.15-4ubuntu4~18.04.2, 2.7.17-1~18.04ubuntu1)
+history.log.5.gz:End-Date: 2020-04-22  06:47:02
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-22  06:47:07
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: libpython3.6-minimal:amd64 (3.6.8-1~18.04.3, 3.6.9-1~18.04ubuntu1), libpython3.6-stdlib:amd64 (3.6.8-1~18.04.3, 3.6.9-1~18.04ubuntu1), libpython3.6:amd64 (3.6.8-1~18.04.3, 3.6.9-1~18.04ubuntu1), python3.6:amd64 (3.6.8-1~18.04.3, 3.6.9-1~18.04ubuntu1), python3.6-minimal:amd64 (3.6.8-1~18.04.3, 3.6.9-1~18.04ubuntu1)
+history.log.5.gz:End-Date: 2020-04-22  06:47:12
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-23  06:45:29
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: binutils:amd64 (2.30-21ubuntu1~18.04.2, 2.30-21ubuntu1~18.04.3), binutils-x86-64-linux-gnu:amd64 (2.30-21ubuntu1~18.04.2, 2.30-21ubuntu1~18.04.3), binutils-common:amd64 (2.30-21ubuntu1~18.04.2, 2.30-21ubuntu1~18.04.3), libbinutils:amd64 (2.30-21ubuntu1~18.04.2, 2.30-21ubuntu1~18.04.3)
+history.log.5.gz:End-Date: 2020-04-23  06:45:32
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-28  06:25:04
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: libcups2:amd64 (2.2.7-1ubuntu2.7, 2.2.7-1ubuntu2.8)
+history.log.5.gz:End-Date: 2020-04-28  06:25:06
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-28  20:33:27
+history.log.5.gz:Commandline: apt-get upgrade
+history.log.5.gz:Requested-By: danscap (1000)
+history.log.5.gz:Upgrade: fdisk:amd64 (2.31.1-0.4ubuntu3.4, 2.31.1-0.4ubuntu3.6), libjson-glib-1.0-0:amd64 (1.4.2-3, 1.4.2-3ubuntu0.18.04.1), libdevmapper1.02.1:amd64 (2:1.02.145-4.1ubuntu3.18.04.1, 2:1.02.145-4.1ubuntu3.18.04.2), liblvm2cmd2.02:amd64 (2.02.176-4.1ubuntu3.18.04.1, 2.02.176-4.1ubuntu3.18.04.2), dmsetup:amd64 (2:1.02.145-4.1ubuntu3.18.04.1, 2:1.02.145-4.1ubuntu3.18.04.2), libthunarx-2-0:amd64 (1.6.15-0ubuntu1, 1.6.15-0ubuntu1.18.04.1), cloud-init:amd64 (19.2-36-g059d049c-0ubuntu2~18.04.1, 19.4-33-gbb4131a2-0ubuntu1~18.04.1), landscape-common:amd64 (18.01-0ubuntu3.4, 18.01-0ubuntu3.5), thunar-data:amd64 (1.6.15-0ubuntu1, 1.6.15-0ubuntu1.18.04.1), update-manager-core:amd64 (1:18.04.11.10, 1:18.04.11.12), uuid-runtime:amd64 (2.31.1-0.4ubuntu3.4, 2.31.1-0.4ubuntu3.6), python3-zope.interface:amd64 (4.3.2-1build2, 4.3.2-1+ubuntu18.04.1+certbot+1), libfdisk1:amd64 (2.31.1-0.4ubuntu3.4, 2.31.1-0.4ubuntu3.6), xserver-common:amd64 (2:1.19.6-1ubuntu4.3, 2:1.19.6-1ubuntu4.4), python3-software-properties:amd64 (0.96.24.32.11, 0.96.24.32.12), xserver-xorg-core:amd64 (2:1.19.6-1ubuntu4.3, 2:1.19.6-1ubuntu4.4), libegl-mesa0:amd64 (19.2.8-0ubuntu0~18.04.2, 19.2.8-0ubuntu0~18.04.3), libsystemd0:amd64 (237-3ubuntu10.38, 237-3ubuntu10.39), grub-common:amd64 (2.02-2ubuntu8.13, 2.02-2ubuntu8.15), mdadm:amd64 (4.1~rc1-3~ubuntu18.04.2, 4.1~rc1-3~ubuntu18.04.4), libkmod2:amd64 (24-1ubuntu3.2, 24-1ubuntu3.3), libglapi-mesa:amd64 (19.2.8-0ubuntu0~18.04.2, 19.2.8-0ubuntu0~18.04.3), libasound2-data:amd64 (1.1.3-5ubuntu0.2, 1.1.3-5ubuntu0.5), libmount1:amd64 (2.31.1-0.4ubuntu3.4, 2.31.1-0.4ubuntu3.6), snapd:amd64 (2.40+18.04, 2.42.1+18.04), libdevmapper-event1.02.1:amd64 (2:1.02.145-4.1ubuntu3.18.04.1, 2:1.02.145-4.1ubuntu3.18.04.2), ubuntu-standard:amd64 (1.417.3, 1.417.4), nodejs:amd64 (10.17.0-1nodesource1, 10.20.1-1nodesource1), util-linux:amd64 (2.31.1-0.4ubuntu3.4, 2.31.1-0.4ubuntu3.6), open-vm-tools:amd64 (2:10.3.10-1~ubuntu0.18.04.1, 2:11.0.5-4ubuntu0.18.04.1), dmeventd:amd64 (2:1.02.145-4.1ubuntu3.18.04.1, 2:1.02.145-4.1ubuntu3.18.04.2), xserver-xorg-legacy:amd64 (2:1.19.6-1ubuntu4.3, 2:1.19.6-1ubuntu4.4), libxatracker2:amd64 (19.2.8-0ubuntu0~18.04.2, 19.2.8-0ubuntu0~18.04.3), lvm2:amd64 (2.02.176-4.1ubuntu3.18.04.1, 2.02.176-4.1ubuntu3.18.04.2), grub2-common:amd64 (2.02-2ubuntu8.13, 2.02-2ubuntu8.15), udev:amd64 (237-3ubuntu10.38, 237-3ubuntu10.39), libegl1-mesa:amd64 (19.2.8-0ubuntu0~18.04.2, 19.2.8-0ubuntu0~18.04.3), ubuntu-server:amd64 (1.417.3, 1.417.4), initramfs-tools-bin:amd64 (0.130ubuntu3.8, 0.130ubuntu3.9), kmod:amd64 (24-1ubuntu3.2, 24-1ubuntu3.3), libudev1:amd64 (237-3ubuntu10.38, 237-3ubuntu10.39), libgbm1:amd64 (19.2.8-0ubuntu0~18.04.2, 19.2.8-0ubuntu0~18.04.3), mount:amd64 (2.31.1-0.4ubuntu3.4, 2.31.1-0.4ubuntu3.6), ubuntu-minimal:amd64 (1.417.3, 1.417.4), libblkid1:amd64 (2.31.1-0.4ubuntu3.4, 2.31.1-0.4ubuntu3.6), grub-efi-amd64-bin:amd64 (2.02-2ubuntu8.13, 2.02-2ubuntu8.15), python3-distupgrade:amd64 (1:18.04.34, 1:18.04.37), python3-update-manager:amd64 (1:18.04.11.10, 1:18.04.11.12), ubuntu-release-upgrader-core:amd64 (1:18.04.34, 1:18.04.37), liblvm2app2.2:amd64 (2.02.176-4.1ubuntu3.18.04.1, 2.02.176-4.1ubuntu3.18.04.2), dmidecode:amd64 (3.1-1, 3.1-1ubuntu0.1), systemd-sysv:amd64 (237-3ubuntu10.38, 237-3ubuntu10.39), libuuid1:amd64 (2.31.1-0.4ubuntu3.4, 2.31.1-0.4ubuntu3.6), python3-configobj:amd64 (5.0.6-2, 5.0.6-2+ubuntu18.04.1+certbot+1), libjson-glib-1.0-common:amd64 (1.4.2-3, 1.4.2-3ubuntu0.18.04.1), libpam-systemd:amd64 (237-3ubuntu10.38, 237-3ubuntu10.39), distro-info-data:amd64 (0.37ubuntu0.6, 0.37ubuntu0.7), systemd:amd64 (237-3ubuntu10.38, 237-3ubuntu10.39), libsmartcols1:amd64 (2.31.1-0.4ubuntu3.4, 2.31.1-0.4ubuntu3.6), thunar:amd64 (1.6.15-0ubuntu1, 1.6.15-0ubuntu1.18.04.1), libgl1-mesa-dri:amd64 (19.2.8-0ubuntu0~18.04.2, 19.2.8-0ubuntu0~18.04.3), grub-efi-amd64:amd64 (2.02-2ubuntu8.13, 2.02-2ubuntu8.15), sosreport:amd64 (3.6-1ubuntu0.18.04.3, 3.9-1ubuntu0.18.04.2), libnss-systemd:amd64 (237-3ubuntu10.38, 237-3ubuntu10.39), bsdutils:amd64 (1:2.31.1-0.4ubuntu3.4, 1:2.31.1-0.4ubuntu3.6), libasound2:amd64 (1.1.3-5ubuntu0.2, 1.1.3-5ubuntu0.5), libgl1-mesa-glx:amd64 (19.2.8-0ubuntu0~18.04.2, 19.2.8-0ubuntu0~18.04.3), grub-efi-amd64-signed:amd64 (1.93.14+2.02-2ubuntu8.13, 1.93.16+2.02-2ubuntu8.15), unattended-upgrades:amd64 (1.1ubuntu1.18.04.11, 1.1ubuntu1.18.04.14), xvfb:amd64 (2:1.19.6-1ubuntu4.3, 2:1.19.6-1ubuntu4.4), python3-gdbm:amd64 (3.6.8-1~18.04, 3.6.9-1~18.04), initramfs-tools-core:amd64 (0.130ubuntu3.8, 0.130ubuntu3.9), initramfs-tools:amd64 (0.130ubuntu3.8, 0.130ubuntu3.9), base-files:amd64 (10.1ubuntu2.7, 10.1ubuntu2.8), libglx-mesa0:amd64 (19.2.8-0ubuntu0~18.04.2, 19.2.8-0ubuntu0~18.04.3), lxcfs:amd64 (3.0.3-0ubuntu1~18.04.1, 3.0.3-0ubuntu1~18.04.2), software-properties-common:amd64 (0.96.24.32.11, 0.96.24.32.12)
+history.log.5.gz:End-Date: 2020-04-28  20:34:31
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-28  20:37:08
+history.log.5.gz:Commandline: apt install autoconf automake build-essential python-setuptools python-dev libssl-dev libtool
+history.log.5.gz:Requested-By: danscap (1000)
+history.log.5.gz:Install: libltdl-dev:amd64 (2.4.6-2, automatic), autotools-dev:amd64 (20180224.1, automatic), python2.7-dev:amd64 (2.7.17-1~18.04ubuntu1, automatic), m4:amd64 (1.4.18-1, automatic), libexpat1-dev:amd64 (2.2.5-3ubuntu0.2, automatic), libpython2.7:amd64 (2.7.17-1~18.04ubuntu1, automatic), automake:amd64 (1:1.15.1-3ubuntu2), libpython2.7-dev:amd64 (2.7.17-1~18.04ubuntu1, automatic), autoconf:amd64 (2.69-11), libpython-dev:amd64 (2.7.15~rc1-1, automatic), python-pkg-resources:amd64 (39.0.1-2, automatic), libssl-dev:amd64 (1.1.1-1ubuntu2.1~18.04.5), python-dev:amd64 (2.7.15~rc1-1), python-setuptools:amd64 (39.0.1-2), libtool:amd64 (2.4.6-2)
+history.log.5.gz:End-Date: 2020-04-28  20:37:13
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-28  20:38:57
+history.log.5.gz:Commandline: apt install pkg-config
+history.log.5.gz:Requested-By: danscap (1000)
+history.log.5.gz:Install: pkg-config:amd64 (0.29.1-0ubuntu2)
+history.log.5.gz:End-Date: 2020-04-28  20:38:58
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-30  06:22:23
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-96.97, 4.15.0-99.100)
+history.log.5.gz:End-Date: 2020-04-30  06:22:24
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-30  06:22:27
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Upgrade: libwebkit2gtk-4.0-37:amd64 (2.28.1-0ubuntu0.18.04.1, 2.28.2-0ubuntu0.18.04.1), libjavascriptcoregtk-4.0-18:amd64 (2.28.1-0ubuntu0.18.04.1, 2.28.2-0ubuntu0.18.04.1)
+history.log.5.gz:End-Date: 2020-04-30  06:22:30
+history.log.5.gz:
+history.log.5.gz:Start-Date: 2020-04-30  06:22:33
+history.log.5.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.5.gz:Install: linux-headers-4.15.0-99:amd64 (4.15.0-99.100, automatic), linux-modules-4.15.0-99-generic:amd64 (4.15.0-99.100, automatic), linux-headers-4.15.0-99-generic:amd64 (4.15.0-99.100, automatic), linux-image-4.15.0-99-generic:amd64 (4.15.0-99.100, automatic)
+history.log.5.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.96.87, 4.15.0.99.89), linux-virtual:amd64 (4.15.0.96.87, 4.15.0.99.89), linux-headers-virtual:amd64 (4.15.0.96.87, 4.15.0.99.89), linux-image-virtual:amd64 (4.15.0.96.87, 4.15.0.99.89)
+history.log.5.gz:End-Date: 2020-04-30  06:22:54
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-11  06:31:02
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: libsqlite3-0:amd64 (3.22.0-1ubuntu0.2, 3.22.0-1ubuntu0.3)
+history.log.6.gz:End-Date: 2020-03-11  06:31:03
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-11  06:31:05
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: libgcc-7-dev:amd64 (7.4.0-1ubuntu1~18.04.1, 7.5.0-3ubuntu1~18.04), cpp-7:amd64 (7.4.0-1ubuntu1~18.04.1, 7.5.0-3ubuntu1~18.04), gcc-7-base:amd64 (7.4.0-1ubuntu1~18.04.1, 7.5.0-3ubuntu1~18.04), libcilkrts5:amd64 (7.4.0-1ubuntu1~18.04.1, 7.5.0-3ubuntu1~18.04), libasan4:amd64 (7.4.0-1ubuntu1~18.04.1, 7.5.0-3ubuntu1~18.04), libstdc++-7-dev:amd64 (7.4.0-1ubuntu1~18.04.1, 7.5.0-3ubuntu1~18.04), libubsan0:amd64 (7.4.0-1ubuntu1~18.04.1, 7.5.0-3ubuntu1~18.04), g++-7:amd64 (7.4.0-1ubuntu1~18.04.1, 7.5.0-3ubuntu1~18.04), gcc-7:amd64 (7.4.0-1ubuntu1~18.04.1, 7.5.0-3ubuntu1~18.04)
+history.log.6.gz:End-Date: 2020-03-11  06:31:10
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-11  06:31:12
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: libmpx2:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04), gcc-8-base:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04), libitm1:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04), libquadmath0:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04), libgcc1:amd64 (1:8.3.0-6ubuntu1~18.04.1, 1:8.3.0-26ubuntu1~18.04), libtsan0:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04), liblsan0:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04), libgomp1:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04), libatomic1:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04), libcc1-0:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04), libstdc++6:amd64 (8.3.0-6ubuntu1~18.04.1, 8.3.0-26ubuntu1~18.04)
+history.log.6.gz:End-Date: 2020-03-11  06:31:14
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-18  06:17:38
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: libicu60:amd64 (60.2-3ubuntu3, 60.2-3ubuntu3.1)
+history.log.6.gz:End-Date: 2020-03-18  06:17:40
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-18  06:17:43
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-88.88, 4.15.0-91.92)
+history.log.6.gz:End-Date: 2020-03-18  06:17:44
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-18  06:17:46
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: python3-apport:amd64 (2.20.9-0ubuntu7.9, 2.20.9-0ubuntu7.12)
+history.log.6.gz:End-Date: 2020-03-18  06:17:47
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-18  06:17:50
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: python3-problem-report:amd64 (2.20.9-0ubuntu7.9, 2.20.9-0ubuntu7.12)
+history.log.6.gz:End-Date: 2020-03-18  06:17:51
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-18  06:17:53
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: apport:amd64 (2.20.9-0ubuntu7.9, 2.20.9-0ubuntu7.12)
+history.log.6.gz:End-Date: 2020-03-18  06:17:57
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-18  06:17:59
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Install: linux-image-4.15.0-91-generic:amd64 (4.15.0-91.92, automatic), linux-headers-4.15.0-91:amd64 (4.15.0-91.92, automatic), linux-modules-4.15.0-91-generic:amd64 (4.15.0-91.92, automatic), linux-headers-4.15.0-91-generic:amd64 (4.15.0-91.92, automatic)
+history.log.6.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.88.80, 4.15.0.91.83), linux-virtual:amd64 (4.15.0.88.80, 4.15.0.91.83), linux-headers-virtual:amd64 (4.15.0.88.80, 4.15.0.91.83), linux-image-virtual:amd64 (4.15.0.88.80, 4.15.0.91.83)
+history.log.6.gz:End-Date: 2020-03-18  06:18:22
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-19  06:38:57
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Remove: linux-modules-4.15.0-72-generic:amd64 (4.15.0-72.81), linux-image-4.15.0-72-generic:amd64 (4.15.0-72.81)
+history.log.6.gz:End-Date: 2020-03-19  06:39:00
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-19  06:39:03
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Remove: linux-modules-4.15.0-76-generic:amd64 (4.15.0-76.86), linux-image-4.15.0-76-generic:amd64 (4.15.0-76.86)
+history.log.6.gz:End-Date: 2020-03-19  06:39:06
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-19  06:39:08
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Remove: linux-headers-4.15.0-72-generic:amd64 (4.15.0-72.81)
+history.log.6.gz:End-Date: 2020-03-19  06:39:10
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-19  06:39:12
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Remove: linux-headers-4.15.0-72:amd64 (4.15.0-72.81)
+history.log.6.gz:End-Date: 2020-03-19  06:39:14
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-19  06:39:16
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Remove: linux-headers-4.15.0-76-generic:amd64 (4.15.0-76.86)
+history.log.6.gz:End-Date: 2020-03-19  06:39:18
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-19  06:39:20
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Remove: linux-headers-4.15.0-76:amd64 (4.15.0-76.86)
+history.log.6.gz:End-Date: 2020-03-19  06:39:22
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-21  06:17:53
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: python3-twisted-bin:amd64 (17.9.0-2, 17.9.0-2ubuntu0.1)
+history.log.6.gz:End-Date: 2020-03-21  06:17:53
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-21  06:17:57
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: python3-twisted:amd64 (17.9.0-2, 17.9.0-2ubuntu0.1)
+history.log.6.gz:End-Date: 2020-03-21  06:18:03
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-24  06:44:02
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: xxd:amd64 (2:8.0.1453-1ubuntu1.1, 2:8.0.1453-1ubuntu1.3)
+history.log.6.gz:End-Date: 2020-03-24  06:44:04
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-24  06:44:06
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: vim-common:amd64 (2:8.0.1453-1ubuntu1.1, 2:8.0.1453-1ubuntu1.3), vim-runtime:amd64 (2:8.0.1453-1ubuntu1.1, 2:8.0.1453-1ubuntu1.3), vim:amd64 (2:8.0.1453-1ubuntu1.1, 2:8.0.1453-1ubuntu1.3), vim-tiny:amd64 (2:8.0.1453-1ubuntu1.1, 2:8.0.1453-1ubuntu1.3)
+history.log.6.gz:End-Date: 2020-03-24  06:44:09
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-25  06:11:02
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: libglib2.0-0:amd64 (2.56.4-0ubuntu0.18.04.4, 2.56.4-0ubuntu0.18.04.6)
+history.log.6.gz:End-Date: 2020-03-25  06:11:03
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-25  06:11:06
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: libglib2.0-data:amd64 (2.56.4-0ubuntu0.18.04.4, 2.56.4-0ubuntu0.18.04.6)
+history.log.6.gz:End-Date: 2020-03-25  06:11:06
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-25  06:11:08
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: linux-base:amd64 (4.5ubuntu1, 4.5ubuntu1.1)
+history.log.6.gz:End-Date: 2020-03-25  06:11:10
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-31  06:38:03
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: libwebkit2gtk-4.0-37:amd64 (2.26.4-0ubuntu0.18.04.1, 2.28.0-0ubuntu0.18.04.3), libjavascriptcoregtk-4.0-18:amd64 (2.26.4-0ubuntu0.18.04.1, 2.28.0-0ubuntu0.18.04.3)
+history.log.6.gz:End-Date: 2020-03-31  06:38:06
+history.log.6.gz:
+history.log.6.gz:Start-Date: 2020-03-31  06:38:09
+history.log.6.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.6.gz:Upgrade: libmpx2:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04), gcc-8-base:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04), libitm1:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04), libquadmath0:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04), libgcc1:amd64 (1:8.3.0-26ubuntu1~18.04, 1:8.4.0-1ubuntu1~18.04), libtsan0:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04), liblsan0:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04), libgomp1:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04), libatomic1:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04), libcc1-0:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04), libstdc++6:amd64 (8.3.0-26ubuntu1~18.04, 8.4.0-1ubuntu1~18.04)
+history.log.6.gz:End-Date: 2020-03-31  06:38:11
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-04  06:47:32
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: sudo:amd64 (1.8.21p2-3ubuntu1.1, 1.8.21p2-3ubuntu1.2)
+history.log.7.gz:End-Date: 2020-02-04  06:47:33
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-06  06:50:22
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: systemd-sysv:amd64 (237-3ubuntu10.31, 237-3ubuntu10.38)
+history.log.7.gz:End-Date: 2020-02-06  06:50:23
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-06  06:50:27
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: udev:amd64 (237-3ubuntu10.31, 237-3ubuntu10.38), libudev1:amd64 (237-3ubuntu10.31, 237-3ubuntu10.38)
+history.log.7.gz:End-Date: 2020-02-06  06:50:43
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-06  06:50:47
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libsystemd0:amd64 (237-3ubuntu10.31, 237-3ubuntu10.38), libpam-systemd:amd64 (237-3ubuntu10.31, 237-3ubuntu10.38), systemd:amd64 (237-3ubuntu10.31, 237-3ubuntu10.38), libnss-systemd:amd64 (237-3ubuntu10.31, 237-3ubuntu10.38)
+history.log.7.gz:End-Date: 2020-02-06  06:50:54
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:29
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libdrm-common:amd64 (2.4.97-1ubuntu1~18.04.1, 2.4.99-1ubuntu1~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:29:29
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:32
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libdrm-intel1:amd64 (2.4.97-1ubuntu1~18.04.1, 2.4.99-1ubuntu1~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:29:32
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:35
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libdrm-nouveau2:amd64 (2.4.97-1ubuntu1~18.04.1, 2.4.99-1ubuntu1~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:29:35
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:38
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libdrm-radeon1:amd64 (2.4.97-1ubuntu1~18.04.1, 2.4.99-1ubuntu1~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:29:38
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:41
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libegl1-mesa:amd64 (19.0.8-0ubuntu0~18.04.3, 19.2.8-0ubuntu0~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:29:42
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:44
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libgl1-mesa-glx:amd64 (19.0.8-0ubuntu0~18.04.3, 19.2.8-0ubuntu0~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:29:44
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:47
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libwayland-client0:amd64 (1.16.0-1ubuntu1.1~18.04.1, 1.16.0-1ubuntu1.1~18.04.3)
+history.log.7.gz:End-Date: 2020-02-07  06:29:48
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:50
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libwayland-cursor0:amd64 (1.16.0-1ubuntu1.1~18.04.1, 1.16.0-1ubuntu1.1~18.04.3)
+history.log.7.gz:End-Date: 2020-02-07  06:29:50
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:53
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libwayland-egl1:amd64 (1.16.0-1ubuntu1.1~18.04.1, 1.16.0-1ubuntu1.1~18.04.3)
+history.log.7.gz:End-Date: 2020-02-07  06:29:53
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:56
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libwayland-server0:amd64 (1.16.0-1ubuntu1.1~18.04.1, 1.16.0-1ubuntu1.1~18.04.3)
+history.log.7.gz:End-Date: 2020-02-07  06:29:56
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:29:59
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libdrm2:amd64 (2.4.97-1ubuntu1~18.04.1, 2.4.99-1ubuntu1~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:29:59
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:30:02
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libegl-mesa0:amd64 (19.0.8-0ubuntu0~18.04.3, 19.2.8-0ubuntu0~18.04.2), libgbm1:amd64 (19.0.8-0ubuntu0~18.04.3, 19.2.8-0ubuntu0~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:30:02
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:30:05
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Install: libllvm9:amd64 (1:9-2~ubuntu18.04.2, automatic)
+history.log.7.gz:Upgrade: libgl1-mesa-dri:amd64 (19.0.8-0ubuntu0~18.04.3, 19.2.8-0ubuntu0~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:30:09
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:30:12
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libglapi-mesa:amd64 (19.0.8-0ubuntu0~18.04.3, 19.2.8-0ubuntu0~18.04.2), libglx-mesa0:amd64 (19.0.8-0ubuntu0~18.04.3, 19.2.8-0ubuntu0~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:30:12
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:30:15
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libxatracker2:amd64 (19.0.8-0ubuntu0~18.04.3, 19.2.8-0ubuntu0~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:30:15
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:30:18
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libdrm-amdgpu1:amd64 (2.4.97-1ubuntu1~18.04.1, 2.4.99-1ubuntu1~18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:30:19
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-07  06:30:22
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Remove: libllvm8:amd64 (1:8-3~ubuntu18.04.2)
+history.log.7.gz:End-Date: 2020-02-07  06:30:22
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-11  06:10:01
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libxml2:amd64 (2.9.4+dfsg1-6.1ubuntu1.2, 2.9.4+dfsg1-6.1ubuntu1.3)
+history.log.7.gz:End-Date: 2020-02-11  06:10:02
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-12  06:56:08
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libexif12:amd64 (0.6.21-4, 0.6.21-4ubuntu0.1)
+history.log.7.gz:End-Date: 2020-02-12  06:56:09
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-19  06:19:14
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libpq5:amd64 (10.10-0ubuntu0.18.04.1, 10.12-0ubuntu0.18.04.1)
+history.log.7.gz:End-Date: 2020-02-19  06:19:14
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-19  06:19:17
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-76.86, 4.15.0-88.88)
+history.log.7.gz:End-Date: 2020-02-19  06:19:18
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-19  06:19:21
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: postgresql-10:amd64 (10.10-0ubuntu0.18.04.1, 10.12-0ubuntu0.18.04.1)
+history.log.7.gz:End-Date: 2020-02-19  06:19:25
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-19  06:19:28
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: libwebkit2gtk-4.0-37:amd64 (2.26.3-0ubuntu0.18.04.1, 2.26.4-0ubuntu0.18.04.1), libjavascriptcoregtk-4.0-18:amd64 (2.26.3-0ubuntu0.18.04.1, 2.26.4-0ubuntu0.18.04.1)
+history.log.7.gz:End-Date: 2020-02-19  06:19:31
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-19  06:19:33
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: postgresql-client-10:amd64 (10.10-0ubuntu0.18.04.1, 10.12-0ubuntu0.18.04.1)
+history.log.7.gz:End-Date: 2020-02-19  06:19:34
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-19  06:19:37
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Install: linux-image-4.15.0-88-generic:amd64 (4.15.0-88.88, automatic), linux-headers-4.15.0-88:amd64 (4.15.0-88.88, automatic), linux-headers-4.15.0-88-generic:amd64 (4.15.0-88.88, automatic), linux-modules-4.15.0-88-generic:amd64 (4.15.0-88.88, automatic)
+history.log.7.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.76.78, 4.15.0.88.80), linux-virtual:amd64 (4.15.0.76.78, 4.15.0.88.80), linux-headers-virtual:amd64 (4.15.0.76.78, 4.15.0.88.80), linux-image-virtual:amd64 (4.15.0.76.78, 4.15.0.88.80)
+history.log.7.gz:End-Date: 2020-02-19  06:20:02
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-20  06:48:44
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Remove: linux-headers-4.15.0-74-generic:amd64 (4.15.0-74.84)
+history.log.7.gz:End-Date: 2020-02-20  06:48:46
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-20  06:48:49
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Remove: linux-modules-4.15.0-74-generic:amd64 (4.15.0-74.84), linux-image-4.15.0-74-generic:amd64 (4.15.0-74.84)
+history.log.7.gz:End-Date: 2020-02-20  06:48:52
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-20  06:48:55
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Remove: linux-headers-4.15.0-74:amd64 (4.15.0-74.84)
+history.log.7.gz:End-Date: 2020-02-20  06:48:57
+history.log.7.gz:
+history.log.7.gz:Start-Date: 2020-02-26  06:51:01
+history.log.7.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.7.gz:Upgrade: rsync:amd64 (3.1.2-2.1ubuntu1, 3.1.2-2.1ubuntu1.1)
+history.log.7.gz:End-Date: 2020-02-26  06:51:03
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-02  22:16:28
+history.log.8.gz:Commandline: apt install eog
+history.log.8.gz:Requested-By: danscap (1000)
+history.log.8.gz:Install: hunspell-en-us:amd64 (1:2017.08.24, automatic), enchant:amd64 (1.6.0-11.1, automatic), libaa1:amd64 (1.4p5-44build2, automatic), libraw1394-11:amd64 (2.1.2-1, automatic), gir1.2-gtk-3.0:amd64 (3.22.30-1ubuntu4, automatic), libdv4:amd64 (1.0.0-11, automatic), gir1.2-gdkpixbuf-2.0:amd64 (2.36.11-2, automatic), libbrotli1:amd64 (1.0.3-1ubuntu1.2, automatic), libshout3:amd64 (2.4.1-2build1, automatic), gstreamer1.0-plugins-good:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), gnome-desktop3-data:amd64 (3.28.2-0ubuntu1.5, automatic), yelp:amd64 (3.26.0-1ubuntu2, automatic), libyelp0:amd64 (3.26.0-1ubuntu2, automatic), libwoff1:amd64 (1.0.2-1build0.1, automatic), gir1.2-atk-1.0:amd64 (2.28.1-1, automatic), eog:amd64 (3.28.1-1), libmp3lame0:amd64 (3.100-2, automatic), libpeas-1.0-0:amd64 (1.22.0-2, automatic), gir1.2-pango-1.0:amd64 (1.40.14-1ubuntu0.1, automatic), libharfbuzz-icu0:amd64 (1.7.2-1ubuntu1, automatic), libgraphene-1.0-0:amd64 (1.8.0-1, automatic), libhyphen0:amd64 (2.8.8-5, automatic), gir1.2-freedesktop:amd64 (1.56.1-1, automatic), bubblewrap:amd64 (0.2.1-1ubuntu0.1, automatic), libwavpack1:amd64 (5.1.0-2ubuntu1.4, automatic), libgstreamer-plugins-good1.0-0:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), libvpx5:amd64 (1.7.0-3ubuntu0.18.04.1, automatic), libwebpdemux2:amd64 (0.6.1-2, automatic), libexempi3:amd64 (2.4.5-2, automatic), gstreamer1.0-pulseaudio:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), libpangoxft-1.0-0:amd64 (1.40.14-1ubuntu0.1, automatic), libpeas-common:amd64 (1.22.0-2, automatic), libgnome-desktop-3-17:amd64 (3.28.2-0ubuntu1.5, automatic), gir1.2-peas-1.0:amd64 (1.22.0-2, automatic), yelp-xsl:amd64 (3.20.1-4, automatic), libmpg123-0:amd64 (1.25.10-1, automatic), libcaca0:amd64 (0.99.beta19-2ubuntu0.18.04.1, automatic), libiec61883-0:amd64 (1.2.0-2, automatic), libgstreamer-gl1.0-0:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), libspeex1:amd64 (1.2~rc1.2-1ubuntu2, automatic), libenchant1c2a:amd64 (1.6.0-11.1, automatic), gstreamer1.0-x:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), libwebkit2gtk-4.0-37:amd64 (2.26.2-0ubuntu0.18.04.1, automatic), libtwolame0:amd64 (0.3.13-3, automatic), libhunspell-1.6-0:amd64 (1.6.2-1, automatic), libv4l-0:amd64 (1.14.2-1, automatic), libv4lconvert0:amd64 (1.14.2-1, automatic), libavc1394-0:amd64 (0.5.4-4build1, automatic), libjavascriptcoregtk-4.0-18:amd64 (2.26.2-0ubuntu0.18.04.1, automatic), gstreamer1.0-gl:amd64 (1.14.5-0ubuntu1~18.04.1, automatic)
+history.log.8.gz:End-Date: 2020-01-02  22:16:38
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-03  01:29:11
+history.log.8.gz:Commandline: apt-get install gedit
+history.log.8.gz:Requested-By: danscap (1000)
+history.log.8.gz:Install: gedit:amd64 (3.28.1-1ubuntu1.2), python3-gi-cairo:amd64 (3.26.1-2ubuntu1, automatic), libgspell-1-common:amd64 (1.6.1-1, automatic), gir1.2-gtksource-3.0:amd64 (3.24.7-1, automatic), zenity:amd64 (3.28.1-1, automatic), gedit-common:amd64 (3.28.1-1ubuntu1.2, automatic), libgspell-1-1:amd64 (1.6.1-1, automatic), python3-cairo:amd64 (1.16.2-1, automatic), zenity-common:amd64 (3.28.1-1, automatic)
+history.log.8.gz:End-Date: 2020-01-03  01:29:14
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-08  06:28:52
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-72.81, 4.15.0-74.84)
+history.log.8.gz:End-Date: 2020-01-08  06:28:53
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-08  06:28:57
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Install: linux-modules-4.15.0-74-generic:amd64 (4.15.0-74.84, automatic), linux-headers-4.15.0-74-generic:amd64 (4.15.0-74.84, automatic), linux-headers-4.15.0-74:amd64 (4.15.0-74.84, automatic), linux-image-4.15.0-74-generic:amd64 (4.15.0-74.84, automatic)
+history.log.8.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.72.74, 4.15.0.74.76), linux-virtual:amd64 (4.15.0.72.74, 4.15.0.74.76), linux-headers-virtual:amd64 (4.15.0.72.74, 4.15.0.74.76), linux-image-virtual:amd64 (4.15.0.72.74, 4.15.0.74.76)
+history.log.8.gz:End-Date: 2020-01-08  06:29:20
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-09  06:36:49
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Remove: linux-image-4.15.0-66-generic:amd64 (4.15.0-66.75), linux-modules-4.15.0-66-generic:amd64 (4.15.0-66.75)
+history.log.8.gz:End-Date: 2020-01-09  06:36:53
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-09  06:36:56
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Remove: linux-headers-4.15.0-66-generic:amd64 (4.15.0-66.75)
+history.log.8.gz:End-Date: 2020-01-09  06:36:58
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-09  06:37:01
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Remove: linux-headers-4.15.0-66:amd64 (4.15.0-66.75)
+history.log.8.gz:End-Date: 2020-01-09  06:37:03
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-09  06:37:08
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libnss3:amd64 (2:3.35-2ubuntu2.6, 2:3.35-2ubuntu2.7)
+history.log.8.gz:End-Date: 2020-01-09  06:37:08
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-10  06:24:35
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libgnutls30:amd64 (3.5.18-1ubuntu1.1, 3.5.18-1ubuntu1.2)
+history.log.8.gz:End-Date: 2020-01-10  06:24:36
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-10  06:24:41
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libllvm8:amd64 (1:8-3~ubuntu18.04.1, 1:8-3~ubuntu18.04.2)
+history.log.8.gz:End-Date: 2020-01-10  06:24:43
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-12  18:28:39
+history.log.8.gz:Commandline: apt-get install telegram
+history.log.8.gz:Requested-By: danscap (1000)
+history.log.8.gz:Install: telegram:amd64 (1.8.15-0ubuntu0)
+history.log.8.gz:End-Date: 2020-01-12  18:28:44
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-12  18:34:55
+history.log.8.gz:Commandline: apt-get purge --auto-remove telegram
+history.log.8.gz:Requested-By: danscap (1000)
+history.log.8.gz:Purge: telegram:amd64 (1.8.15-0ubuntu0), grub-pc-bin:amd64 (2.02-2ubuntu8.13)
+history.log.8.gz:End-Date: 2020-01-12  18:34:56
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-12  18:51:21
+history.log.8.gz:Commandline: apt install gajim
+history.log.8.gz:Requested-By: danscap (1000)
+history.log.8.gz:Install: libx265-146:amd64 (2.6-3, automatic), libnm-glib4:amd64 (1.10.6-2ubuntu1.2, automatic), libqmi-proxy:amd64 (1.22.0-1.2~ubuntu18.04.1, automatic), libdc1394-22:amd64 (2.2.5-1, automatic), gir1.2-networkmanager-1.0:amd64 (1.10.6-2ubuntu1.2, automatic), libgupnp-igd-1.0-4:amd64 (0.2.5-1, automatic), python3-axolotl:amd64 (0.1.39-3, automatic), libsnappy1v5:amd64 (1.1.7-1, automatic), libopenjp2-7:amd64 (2.3.0-2build0.18.04.1, automatic), libvulkan1:amd64 (1.1.70+dfsg1-1ubuntu0.18.04.1, automatic), python3-axolotl-curve25519:amd64 (0.1-3build2, automatic), libchromaprint1:amd64 (1.4.3-1, automatic), libpcsclite1:amd64 (1.8.23-1, automatic), python3-olefile:amd64 (0.45.1-1, automatic), gir1.2-secret-1:amd64 (0.18.6-1, automatic), freepats:amd64 (20060219-1, automatic), libcrystalhd3:amd64 (1:0.0~git20110715.fdd2f19-12, automatic), libopenal1:amd64 (1:1.18.2-2, automatic), va-driver-all:amd64 (2.1.0-3, automatic), libsndio6.1:amd64 (1.1.0-3, automatic), libswresample2:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libnl-genl-3-200:amd64 (3.2.29-0ubuntu3, automatic), libnice10:amd64 (0.1.14-1, automatic), libsrtp2-1:amd64 (2.1.0-1, automatic), gajim-omemo:amd64 (2.5.8-1, automatic), python3-gnupg:amd64 (0.4.1-1ubuntu1.18.04.1, automatic), libvo-aacenc0:amd64 (0.1.3-1, automatic), libsratom-0-0:amd64 (0.6.0~dfsg0-1, automatic), libofa0:amd64 (0.9.3-15, automatic), python3-protobuf:amd64 (3.0.0-9.1ubuntu1, automatic), gstreamer1.0-nice:amd64 (0.1.14-1, automatic), libopenmpt0:amd64 (0.3.6-1, automatic), libdvdread4:amd64 (6.0.0-1, automatic), liblilv-0-0:amd64 (0.24.2~dfsg0-1, automatic), libqmi-glib5:amd64 (1.22.0-1.2~ubuntu18.04.1, automatic), libgupnp-1.0-4:amd64 (1.0.2-2, automatic), gir1.2-geoclue-2.0:amd64 (2.4.7-1ubuntu1, automatic), libvdpau1:amd64 (1.1.1-3ubuntu1, automatic), python3-pil:amd64 (5.1.0-1, automatic), python3-keyring:amd64 (10.6.0-1, automatic), python3-nbxmpp:amd64 (0.6.4-1, automatic), libdca0:amd64 (0.0.5-10, automatic), libzbar0:amd64 (0.10+doc-10.1build2, automatic), gstreamer1.0-plugins-bad:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), libdaemon0:amd64 (0.14-6, automatic), gajim:amd64 (1.0.1-3), iio-sensor-proxy:amd64 (2.4-2, automatic), libfarstream-0.2-5:amd64 (0.2.8-4.1~build1, automatic), vdpau-driver-all:amd64 (1.1.1-3ubuntu1, automatic), libwildmidi2:amd64 (0.4.2-1, automatic), libopenal-data:amd64 (1:1.18.2-2, automatic), libdvdnav4:amd64 (6.0.0-1, automatic), libfluidsynth1:amd64 (1.1.9-1, automatic), geoclue-2.0:amd64 (2.4.7-1ubuntu1, automatic), libgeoclue-2-0:amd64 (2.4.7-1ubuntu1, automatic), libnm-util2:amd64 (1.10.6-2ubuntu1.2, automatic), fonts-noto-color-emoji:amd64 (0~20180810-0ubuntu1, automatic), libva2:amd64 (2.1.0-3, automatic), libx264-152:amd64 (2:0.152.2854+gite9a5903-2, automatic), libnss-mdns:amd64 (0.10-8ubuntu1, automatic), libass9:amd64 (1:0.14.0-1, automatic), libxvidcore4:amd64 (2:1.3.5-1, automatic), libmplex2-2.1-0:amd64 (1:2.1.0+debian-5, automatic), libilmbase12:amd64 (2.2.0-11ubuntu2, automatic), libzvbi0:amd64 (0.2.35-13, automatic), avahi-daemon:amd64 (0.7-3.1ubuntu1.2, automatic), gir1.2-gspell-1:amd64 (1.6.1-1, automatic), libnl-3-200:amd64 (3.2.29-0ubuntu3, automatic), libavahi-core7:amd64 (0.7-3.1ubuntu1.2, automatic), gajim-pgp:amd64 (1.2.2-1, automatic), libmpeg2encpp-2.1-0:amd64 (1:2.1.0+debian-5, automatic), libsoundtouch1:amd64 (1.9.2-3, automatic), libavcodec57:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), libmjpegutils-2.1-0:amd64 (1:2.1.0+debian-5, automatic), libvo-amrwbenc0:amd64 (0.1.3-1, automatic), libmm-glib0:amd64 (1.10.0-1~ubuntu18.04.2, automatic), libavutil55:amd64 (7:3.4.6-0ubuntu0.18.04.1, automatic), python3-precis-i18n:amd64 (1.0.0-1, automatic), libgme0:amd64 (0.6.2-1, automatic), libmbim-proxy:amd64 (1.18.0-1~ubuntu18.04.1, automatic), wpasupplicant:amd64 (2:2.6-15ubuntu2.5, automatic), usb-modeswitch-data:amd64 (20170806-2, automatic), gir1.2-gst-plugins-base-1.0:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), libsoxr0:amd64 (0.1.2-3, automatic), libgssdp-1.0-3:amd64 (1.0.2-2, automatic), libwebpmux3:amd64 (0.6.1-2, automatic), libopenexr22:amd64 (2.2.0-11.1ubuntu1.1, automatic), libsord-0-0:amd64 (0.16.0~dfsg0-1, automatic), libfftw3-double3:amd64 (3.3.7-1, automatic), libmpcdec6:amd64 (2:0.1~r495-1, automatic), libshine3:amd64 (3.1.1-1, automatic), python3-keyrings.alt:amd64 (3.0-1, automatic), libspandsp2:amd64 (0.0.6+dfsg-0.1, automatic), gir1.2-farstream-0.2:amd64 (0.2.8-4.1~build1, automatic), python3-crypto:amd64 (2.6.1-8ubuntu2, automatic), libkate1:amd64 (0.4.1-7build1, automatic), libgsm1:amd64 (1.0.13-4build1, automatic), libva-x11-2:amd64 (2.1.0-3, automatic), modemmanager:amd64 (1.10.0-1~ubuntu18.04.2, automatic), libmodplug1:amd64 (1:0.8.9.0-1, automatic), libbs2b0:amd64 (3.1.0+dfsg-2.2, automatic), gir1.2-gstreamer-1.0:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), libva-drm2:amd64 (2.1.0-3, automatic), usb-modeswitch:amd64 (2.5.2+repack0-2ubuntu1, automatic), mesa-vdpau-drivers:amd64 (19.0.8-0ubuntu0~18.04.3, automatic), python3-qrcode:amd64 (5.3-1, automatic), libprotobuf10:amd64 (3.0.0-9.1ubuntu1, automatic), i965-va-driver:amd64 (2.1.0-0ubuntu1, automatic), gir1.2-gupnpigd-1.0:amd64 (0.2.5-1, automatic), libzvbi-common:amd64 (0.2.35-13, automatic), libserd-0-0:amd64 (0.28.0~dfsg0-1, automatic), libwildmidi-config:amd64 (0.4.2-1, automatic), libmbim-glib4:amd64 (1.18.0-1~ubuntu18.04.1, automatic), libgstreamer-plugins-bad1.0-0:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), python3-secretstorage:amd64 (2.3.1-2, automatic), libmms0:amd64 (0.6.4-2, automatic), libfaad2:amd64 (2.8.8-1, automatic), libde265-0:amd64 (1.0.2-2build1, automatic), libflite1:amd64 (2.1-release-1, automatic), libsbc1:amd64 (1.3-2, automatic), mesa-va-drivers:amd64 (19.0.8-0ubuntu0~18.04.3, automatic)
+history.log.8.gz:End-Date: 2020-01-12  18:51:52
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-12  19:06:53
+history.log.8.gz:Commandline: apt-get purge --auto-remove gajim
+history.log.8.gz:Requested-By: danscap (1000)
+history.log.8.gz:Purge: libx265-146:amd64 (2.6-3), libnm-glib4:amd64 (1.10.6-2ubuntu1.2), libqmi-proxy:amd64 (1.22.0-1.2~ubuntu18.04.1), libdc1394-22:amd64 (2.2.5-1), gir1.2-networkmanager-1.0:amd64 (1.10.6-2ubuntu1.2), libgupnp-igd-1.0-4:amd64 (0.2.5-1), python3-axolotl:amd64 (0.1.39-3), libsnappy1v5:amd64 (1.1.7-1), libopenjp2-7:amd64 (2.3.0-2build0.18.04.1), libvulkan1:amd64 (1.1.70+dfsg1-1ubuntu0.18.04.1), python3-axolotl-curve25519:amd64 (0.1-3build2), libchromaprint1:amd64 (1.4.3-1), python3-olefile:amd64 (0.45.1-1), gir1.2-secret-1:amd64 (0.18.6-1), freepats:amd64 (20060219-1), libcrystalhd3:amd64 (1:0.0~git20110715.fdd2f19-12), libopenal1:amd64 (1:1.18.2-2), va-driver-all:amd64 (2.1.0-3), libsndio6.1:amd64 (1.1.0-3), libswresample2:amd64 (7:3.4.6-0ubuntu0.18.04.1), libnice10:amd64 (0.1.14-1), libsrtp2-1:amd64 (2.1.0-1), gajim-omemo:amd64 (2.5.8-1), python3-gnupg:amd64 (0.4.1-1ubuntu1.18.04.1), libvo-aacenc0:amd64 (0.1.3-1), libsratom-0-0:amd64 (0.6.0~dfsg0-1), libofa0:amd64 (0.9.3-15), python3-protobuf:amd64 (3.0.0-9.1ubuntu1), gstreamer1.0-nice:amd64 (0.1.14-1), libopenmpt0:amd64 (0.3.6-1), libdvdread4:amd64 (6.0.0-1), liblilv-0-0:amd64 (0.24.2~dfsg0-1), libqmi-glib5:amd64 (1.22.0-1.2~ubuntu18.04.1), libgupnp-1.0-4:amd64 (1.0.2-2), gir1.2-geoclue-2.0:amd64 (2.4.7-1ubuntu1), libvdpau1:amd64 (1.1.1-3ubuntu1), python3-pil:amd64 (5.1.0-1), python3-keyring:amd64 (10.6.0-1), python3-nbxmpp:amd64 (0.6.4-1), libdca0:amd64 (0.0.5-10), libzbar0:amd64 (0.10+doc-10.1build2), gstreamer1.0-plugins-bad:amd64 (1.14.5-0ubuntu1~18.04.1), gajim:amd64 (1.0.1-3), iio-sensor-proxy:amd64 (2.4-2), libfarstream-0.2-5:amd64 (0.2.8-4.1~build1), vdpau-driver-all:amd64 (1.1.1-3ubuntu1), libwildmidi2:amd64 (0.4.2-1), libopenal-data:amd64 (1:1.18.2-2), libdvdnav4:amd64 (6.0.0-1), libfluidsynth1:amd64 (1.1.9-1), geoclue-2.0:amd64 (2.4.7-1ubuntu1), libgeoclue-2-0:amd64 (2.4.7-1ubuntu1), libnm-util2:amd64 (1.10.6-2ubuntu1.2), fonts-noto-color-emoji:amd64 (0~20180810-0ubuntu1), libva2:amd64 (2.1.0-3), libx264-152:amd64 (2:0.152.2854+gite9a5903-2), libass9:amd64 (1:0.14.0-1), libxvidcore4:amd64 (2:1.3.5-1), libmplex2-2.1-0:amd64 (1:2.1.0+debian-5), libilmbase12:amd64 (2.2.0-11ubuntu2), libzvbi0:amd64 (0.2.35-13), gir1.2-gspell-1:amd64 (1.6.1-1), gajim-pgp:amd64 (1.2.2-1), libmpeg2encpp-2.1-0:amd64 (1:2.1.0+debian-5), libsoundtouch1:amd64 (1.9.2-3), libavcodec57:amd64 (7:3.4.6-0ubuntu0.18.04.1), libmjpegutils-2.1-0:amd64 (1:2.1.0+debian-5), libvo-amrwbenc0:amd64 (0.1.3-1), libmm-glib0:amd64 (1.10.0-1~ubuntu18.04.2), libavutil55:amd64 (7:3.4.6-0ubuntu0.18.04.1), python3-precis-i18n:amd64 (1.0.0-1), libgme0:amd64 (0.6.2-1), libmbim-proxy:amd64 (1.18.0-1~ubuntu18.04.1), usb-modeswitch-data:amd64 (20170806-2), gir1.2-gst-plugins-base-1.0:amd64 (1.14.5-0ubuntu1~18.04.1), libsoxr0:amd64 (0.1.2-3), libgssdp-1.0-3:amd64 (1.0.2-2), libwebpmux3:amd64 (0.6.1-2), libopenexr22:amd64 (2.2.0-11.1ubuntu1.1), libsord-0-0:amd64 (0.16.0~dfsg0-1), libfftw3-double3:amd64 (3.3.7-1), libmpcdec6:amd64 (2:0.1~r495-1), libshine3:amd64 (3.1.1-1), python3-keyrings.alt:amd64 (3.0-1), libspandsp2:amd64 (0.0.6+dfsg-0.1), gir1.2-farstream-0.2:amd64 (0.2.8-4.1~build1), libkate1:amd64 (0.4.1-7build1), libgsm1:amd64 (1.0.13-4build1), libva-x11-2:amd64 (2.1.0-3), modemmanager:amd64 (1.10.0-1~ubuntu18.04.2), libmodplug1:amd64 (1:0.8.9.0-1), libbs2b0:amd64 (3.1.0+dfsg-2.2), gir1.2-gstreamer-1.0:amd64 (1.14.5-0ubuntu1~18.04.1), libva-drm2:amd64 (2.1.0-3), usb-modeswitch:amd64 (2.5.2+repack0-2ubuntu1), mesa-vdpau-drivers:amd64 (19.0.8-0ubuntu0~18.04.3), python3-qrcode:amd64 (5.3-1), libprotobuf10:amd64 (3.0.0-9.1ubuntu1), i965-va-driver:amd64 (2.1.0-0ubuntu1), gir1.2-gupnpigd-1.0:amd64 (0.2.5-1), libzvbi-common:amd64 (0.2.35-13), libserd-0-0:amd64 (0.28.0~dfsg0-1), libwildmidi-config:amd64 (0.4.2-1), libmbim-glib4:amd64 (1.18.0-1~ubuntu18.04.1), libgstreamer-plugins-bad1.0-0:amd64 (1.14.5-0ubuntu1~18.04.1), python3-secretstorage:amd64 (2.3.1-2), libmms0:amd64 (0.6.4-2), libfaad2:amd64 (2.8.8-1), libde265-0:amd64 (1.0.2-2build1), libflite1:amd64 (2.1-release-1), libsbc1:amd64 (1.3-2), mesa-va-drivers:amd64 (19.0.8-0ubuntu0~18.04.3)
+history.log.8.gz:End-Date: 2020-01-12  19:07:05
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-14  06:34:54
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libgcrypt20:amd64 (1.8.1-4ubuntu1.1, 1.8.1-4ubuntu1.2)
+history.log.8.gz:End-Date: 2020-01-14  06:34:55
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-14  06:35:00
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libnginx-mod-http-geoip:amd64 (1.14.0-0ubuntu1.6, 1.14.0-0ubuntu1.7), nginx-core:amd64 (1.14.0-0ubuntu1.6, 1.14.0-0ubuntu1.7), nginx-common:amd64 (1.14.0-0ubuntu1.6, 1.14.0-0ubuntu1.7), libnginx-mod-http-image-filter:amd64 (1.14.0-0ubuntu1.6, 1.14.0-0ubuntu1.7), libnginx-mod-mail:amd64 (1.14.0-0ubuntu1.6, 1.14.0-0ubuntu1.7), libnginx-mod-stream:amd64 (1.14.0-0ubuntu1.6, 1.14.0-0ubuntu1.7), libnginx-mod-http-xslt-filter:amd64 (1.14.0-0ubuntu1.6, 1.14.0-0ubuntu1.7), nginx:amd64 (1.14.0-0ubuntu1.6, 1.14.0-0ubuntu1.7)
+history.log.8.gz:End-Date: 2020-01-14  06:35:05
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-21  06:45:30
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libbsd0:amd64 (0.8.7-1, 0.8.7-1ubuntu0.1)
+history.log.8.gz:End-Date: 2020-01-21  06:45:31
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-21  06:45:34
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: sysstat:amd64 (11.6.1-1, 11.6.1-1ubuntu0.1)
+history.log.8.gz:End-Date: 2020-01-21  06:45:37
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-23  06:05:50
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: python-apt-common:amd64 (1.6.4, 1.6.5ubuntu0.1)
+history.log.8.gz:End-Date: 2020-01-23  06:05:50
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-23  06:05:53
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: python3-apt:amd64 (1.6.4, 1.6.5ubuntu0.1)
+history.log.8.gz:End-Date: 2020-01-23  06:05:54
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-24  06:28:36
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libcom-err2:amd64 (1.44.1-1ubuntu1.2, 1.44.1-1ubuntu1.3)
+history.log.8.gz:End-Date: 2020-01-24  06:28:37
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-24  06:28:40
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libgnutls30:amd64 (3.5.18-1ubuntu1.2, 3.5.18-1ubuntu1.3)
+history.log.8.gz:End-Date: 2020-01-24  06:28:41
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-24  06:28:45
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libss2:amd64 (1.44.1-1ubuntu1.2, 1.44.1-1ubuntu1.3)
+history.log.8.gz:End-Date: 2020-01-24  06:28:46
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-24  06:28:50
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: python-apt-common:amd64 (1.6.5ubuntu0.1, 1.6.5ubuntu0.2)
+history.log.8.gz:End-Date: 2020-01-24  06:28:50
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-24  06:28:53
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: python3-apt:amd64 (1.6.5ubuntu0.1, 1.6.5ubuntu0.2)
+history.log.8.gz:End-Date: 2020-01-24  06:28:54
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-24  06:28:58
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: e2fsprogs:amd64 (1.44.1-1ubuntu1.2, 1.44.1-1ubuntu1.3), libext2fs2:amd64 (1.44.1-1ubuntu1.2, 1.44.1-1ubuntu1.3)
+history.log.8.gz:End-Date: 2020-01-24  06:29:11
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-28  06:52:30
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: tcpdump:amd64 (4.9.2-3, 4.9.3-0ubuntu0.18.04.1)
+history.log.8.gz:End-Date: 2020-01-28  06:52:31
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-29  06:32:33
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libsasl2-modules:amd64 (2.1.27~101-g0780600+dfsg-3ubuntu2, 2.1.27~101-g0780600+dfsg-3ubuntu2.1)
+history.log.8.gz:End-Date: 2020-01-29  06:32:33
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-29  06:32:36
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libsasl2-modules-db:amd64 (2.1.27~101-g0780600+dfsg-3ubuntu2, 2.1.27~101-g0780600+dfsg-3ubuntu2.1)
+history.log.8.gz:End-Date: 2020-01-29  06:32:36
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-29  06:32:39
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: linux-libc-dev:amd64 (4.15.0-74.84, 4.15.0-76.86)
+history.log.8.gz:End-Date: 2020-01-29  06:32:40
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-29  06:32:42
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libsasl2-2:amd64 (2.1.27~101-g0780600+dfsg-3ubuntu2, 2.1.27~101-g0780600+dfsg-3ubuntu2.1)
+history.log.8.gz:End-Date: 2020-01-29  06:32:42
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-29  06:32:45
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Install: linux-headers-4.15.0-76-generic:amd64 (4.15.0-76.86, automatic), linux-modules-4.15.0-76-generic:amd64 (4.15.0-76.86, automatic), linux-headers-4.15.0-76:amd64 (4.15.0-76.86, automatic), linux-image-4.15.0-76-generic:amd64 (4.15.0-76.86, automatic)
+history.log.8.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.74.76, 4.15.0.76.78), linux-virtual:amd64 (4.15.0.74.76, 4.15.0.76.78), linux-headers-virtual:amd64 (4.15.0.74.76, 4.15.0.76.78), linux-image-virtual:amd64 (4.15.0.74.76, 4.15.0.76.78)
+history.log.8.gz:End-Date: 2020-01-29  06:33:04
+history.log.8.gz:
+history.log.8.gz:Start-Date: 2020-01-30  06:44:30
+history.log.8.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.8.gz:Upgrade: libwebkit2gtk-4.0-37:amd64 (2.26.2-0ubuntu0.18.04.1, 2.26.3-0ubuntu0.18.04.1), libjavascriptcoregtk-4.0-18:amd64 (2.26.2-0ubuntu0.18.04.1, 2.26.3-0ubuntu0.18.04.1)
+history.log.8.gz:End-Date: 2020-01-30  06:44:33
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-10-21  15:50:27
+history.log.9.gz:End-Date: 2019-10-21  15:50:27
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-10-21  15:51:12
+history.log.9.gz:Commandline: apt-get install -qqy grub-efi-amd64-signed grub-efi-amd64 shim-signed
+history.log.9.gz:Install: libefivar1:amd64 (34-1, automatic), efibootmgr:amd64 (15-1, automatic), libefiboot1:amd64 (34-1, automatic), sbsigntool:amd64 (0.6-3.2ubuntu2, automatic), grub-efi-amd64-bin:amd64 (2.02-2ubuntu8.13, automatic), mokutil:amd64 (0.3.0+1538710437.fb6250f-0ubuntu2~18.04.1, automatic), grub-efi-amd64:amd64 (2.02-2ubuntu8.13), shim-signed:amd64 (1.37~18.04.3+15+1533136590.3beb971-0ubuntu1), grub-efi-amd64-signed:amd64 (1.93.14+2.02-2ubuntu8.13), secureboot-db:amd64 (1.4~ubuntu0.18.04.1, automatic), shim:amd64 (15+1533136590.3beb971-0ubuntu1, automatic)
+history.log.9.gz:Remove: grub-pc:amd64 (2.02-2ubuntu8.13), grub-gfxpayload-lists:amd64 (0.7)
+history.log.9.gz:End-Date: 2019-10-21  15:51:14
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-09  22:51:34
+history.log.9.gz:Commandline: apt-get install nginx
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: libnginx-mod-http-geoip:amd64 (1.14.0-0ubuntu1.6, automatic), libwebp6:amd64 (0.6.1-2, automatic), libgd3:amd64 (2.2.5-4ubuntu0.3, automatic), nginx-core:amd64 (1.14.0-0ubuntu1.6, automatic), fontconfig-config:amd64 (2.12.6-0ubuntu2, automatic), nginx-common:amd64 (1.14.0-0ubuntu1.6, automatic), libtiff5:amd64 (4.0.9-5ubuntu0.3, automatic), libnginx-mod-http-image-filter:amd64 (1.14.0-0ubuntu1.6, automatic), fonts-dejavu-core:amd64 (2.37-1, automatic), libjpeg8:amd64 (8c-2ubuntu8, automatic), libnginx-mod-mail:amd64 (1.14.0-0ubuntu1.6, automatic), libfontconfig1:amd64 (2.12.6-0ubuntu2, automatic), libjpeg-turbo8:amd64 (1.5.2-0ubuntu5.18.04.3, automatic), libjbig0:amd64 (2.1-3.1build1, automatic), libnginx-mod-stream:amd64 (1.14.0-0ubuntu1.6, automatic), libxpm4:amd64 (1:3.5.12-1, automatic), libnginx-mod-http-xslt-filter:amd64 (1.14.0-0ubuntu1.6, automatic), nginx:amd64 (1.14.0-0ubuntu1.6)
+history.log.9.gz:End-Date: 2019-12-09  22:52:19
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-09  22:54:34
+history.log.9.gz:Commandline: apt install nodejs
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: python2.7-minimal:amd64 (2.7.15-4ubuntu4~18.04.2, automatic), python2.7:amd64 (2.7.15-4ubuntu4~18.04.2, automatic), nodejs:amd64 (10.17.0-1nodesource1), python:amd64 (2.7.15~rc1-1, automatic), libpython-stdlib:amd64 (2.7.15~rc1-1, automatic), libpython2.7-minimal:amd64 (2.7.15-4ubuntu4~18.04.2, automatic), libpython2.7-stdlib:amd64 (2.7.15-4ubuntu4~18.04.2, automatic), python-minimal:amd64 (2.7.15~rc1-1, automatic)
+history.log.9.gz:End-Date: 2019-12-09  22:54:40
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-09  22:55:20
+history.log.9.gz:Commandline: apt-get install build-essential
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: libmpc3:amd64 (1.1.0-1, automatic), libgcc-7-dev:amd64 (7.4.0-1ubuntu1~18.04.1, automatic), libmpx2:amd64 (8.3.0-6ubuntu1~18.04.1, automatic), linux-libc-dev:amd64 (4.15.0-72.81, automatic), libfakeroot:amd64 (1.22-2ubuntu1, automatic), libc6-dev:amd64 (2.27-3ubuntu1, automatic), cpp-7:amd64 (7.4.0-1ubuntu1~18.04.1, automatic), libalgorithm-diff-perl:amd64 (1.19.03-1, automatic), libalgorithm-merge-perl:amd64 (0.08-3, automatic), binutils:amd64 (2.30-21ubuntu1~18.04.2, automatic), cpp:amd64 (4:7.4.0-1ubuntu2.3, automatic), libitm1:amd64 (8.3.0-6ubuntu1~18.04.1, automatic), g++:amd64 (4:7.4.0-1ubuntu2.3, automatic), gcc-7-base:amd64 (7.4.0-1ubuntu1~18.04.1, automatic), gcc:amd64 (4:7.4.0-1ubuntu2.3, automatic), libcilkrts5:amd64 (7.4.0-1ubuntu1~18.04.1, automatic), libasan4:amd64 (7.4.0-1ubuntu1~18.04.1, automatic), libquadmath0:amd64 (8.3.0-6ubuntu1~18.04.1, automatic), libisl19:amd64 (0.19-1, automatic), build-essential:amd64 (12.4ubuntu1), libfile-fcntllock-perl:amd64 (0.22-3build2, automatic), binutils-x86-64-linux-gnu:amd64 (2.30-21ubuntu1~18.04.2, automatic), libstdc++-7-dev:amd64 (7.4.0-1ubuntu1~18.04.1, automatic), libtsan0:amd64 (8.3.0-6ubuntu1~18.04.1, automatic), libubsan0:amd64 (7.4.0-1ubuntu1~18.04.1, automatic), g++-7:amd64 (7.4.0-1ubuntu1~18.04.1, automatic), make:amd64 (4.1-9.1ubuntu1, automatic), fakeroot:amd64 (1.22-2ubuntu1, automatic), gcc-7:amd64 (7.4.0-1ubuntu1~18.04.1, automatic), liblsan0:amd64 (8.3.0-6ubuntu1~18.04.1, automatic), libgomp1:amd64 (8.3.0-6ubuntu1~18.04.1, automatic), manpages-dev:amd64 (4.15-1, automatic), binutils-common:amd64 (2.30-21ubuntu1~18.04.2, automatic), libc-dev-bin:amd64 (2.27-3ubuntu1, automatic), libbinutils:amd64 (2.30-21ubuntu1~18.04.2, automatic), libatomic1:amd64 (8.3.0-6ubuntu1~18.04.1, automatic), libcc1-0:amd64 (8.3.0-6ubuntu1~18.04.1, automatic), libdpkg-perl:amd64 (1.19.0.5ubuntu2.3, automatic), libalgorithm-diff-xs-perl:amd64 (0.04-5, automatic), dpkg-dev:amd64 (1.19.0.5ubuntu2.3, automatic)
+history.log.9.gz:End-Date: 2019-12-09  22:55:45
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-09  23:25:19
+history.log.9.gz:Commandline: apt-get install postgresql postgresql-contrib
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: postgresql-common:amd64 (190ubuntu0.1, automatic), sysstat:amd64 (11.6.1-1, automatic), libpq5:amd64 (10.10-0ubuntu0.18.04.1, automatic), ssl-cert:amd64 (1.0.39, automatic), postgresql-10:amd64 (10.10-0ubuntu0.18.04.1, automatic), postgresql:amd64 (10+190ubuntu0.1), postgresql-contrib:amd64 (10+190ubuntu0.1), postgresql-client-10:amd64 (10.10-0ubuntu0.18.04.1, automatic), libsensors4:amd64 (1:3.4.0-4, automatic), postgresql-client-common:amd64 (190ubuntu0.1, automatic)
+history.log.9.gz:End-Date: 2019-12-09  23:25:34
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:16:44
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: cpio:amd64 (2.12+dfsg-6, 2.12+dfsg-6ubuntu0.18.04.1)
+history.log.9.gz:End-Date: 2019-12-10  06:16:45
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:16:48
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: libdns-export1100:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11)
+history.log.9.gz:End-Date: 2019-12-10  06:16:48
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:16:50
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: libidn2-0:amd64 (2.0.4-1.1build2, 2.0.4-1.1ubuntu0.2)
+history.log.9.gz:End-Date: 2019-12-10  06:16:51
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:16:53
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: libisc-export169:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11)
+history.log.9.gz:End-Date: 2019-12-10  06:16:53
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:16:55
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: libsqlite3-0:amd64 (3.22.0-1ubuntu0.1, 3.22.0-1ubuntu0.2)
+history.log.9.gz:End-Date: 2019-12-10  06:16:56
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:16:58
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: libssl1.1:amd64 (1.1.1-1ubuntu2.1~18.04.4, 1.1.1-1ubuntu2.1~18.04.5)
+history.log.9.gz:End-Date: 2019-12-10  06:16:59
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:17:01
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: libxslt1.1:amd64 (1.1.29-5ubuntu0.1, 1.1.29-5ubuntu0.2)
+history.log.9.gz:End-Date: 2019-12-10  06:17:01
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:17:04
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: openssl:amd64 (1.1.1-1ubuntu2.1~18.04.4, 1.1.1-1ubuntu2.1~18.04.5)
+history.log.9.gz:End-Date: 2019-12-10  06:17:06
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:17:08
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: python3-apport:amd64 (2.20.9-0ubuntu7.7, 2.20.9-0ubuntu7.9)
+history.log.9.gz:End-Date: 2019-12-10  06:17:09
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:17:11
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: python3-problem-report:amd64 (2.20.9-0ubuntu7.7, 2.20.9-0ubuntu7.9)
+history.log.9.gz:End-Date: 2019-12-10  06:17:11
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:17:14
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: apport:amd64 (2.20.9-0ubuntu7.7, 2.20.9-0ubuntu7.9)
+history.log.9.gz:End-Date: 2019-12-10  06:17:17
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:17:19
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: libmagic1:amd64 (1:5.32-2ubuntu0.2, 1:5.32-2ubuntu0.3), libmagic-mgc:amd64 (1:5.32-2ubuntu0.2, 1:5.32-2ubuntu0.3), file:amd64 (1:5.32-2ubuntu0.2, 1:5.32-2ubuntu0.3)
+history.log.9.gz:End-Date: 2019-12-10  06:17:20
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:17:23
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Install: linux-modules-4.15.0-72-generic:amd64 (4.15.0-72.81, automatic), linux-headers-4.15.0-72-generic:amd64 (4.15.0-72.81, automatic), linux-headers-4.15.0-72:amd64 (4.15.0-72.81, automatic), linux-image-4.15.0-72-generic:amd64 (4.15.0-72.81, automatic)
+history.log.9.gz:Upgrade: linux-headers-generic:amd64 (4.15.0.66.68, 4.15.0.72.74), linux-virtual:amd64 (4.15.0.66.68, 4.15.0.72.74), linux-headers-virtual:amd64 (4.15.0.66.68, 4.15.0.72.74), linux-image-virtual:amd64 (4.15.0.66.68, 4.15.0.72.74)
+history.log.9.gz:End-Date: 2019-12-10  06:17:43
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-10  06:17:46
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: libisccfg160:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11), libirs160:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11), bind9-host:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11), dnsutils:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11), libisc169:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11), liblwres160:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11), libisccc160:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11), libbind9-160:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11), libdns1100:amd64 (1:9.11.3+dfsg-1ubuntu1.9, 1:9.11.3+dfsg-1ubuntu1.11)
+history.log.9.gz:End-Date: 2019-12-10  06:17:49
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-11  06:25:30
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: git:amd64 (1:2.17.1-1ubuntu0.4, 1:2.17.1-1ubuntu0.5)
+history.log.9.gz:End-Date: 2019-12-11  06:25:31
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-11  06:25:34
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: git-man:amd64 (1:2.17.1-1ubuntu0.4, 1:2.17.1-1ubuntu0.5)
+history.log.9.gz:End-Date: 2019-12-11  06:25:37
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-11  06:25:40
+history.log.9.gz:Commandline: /usr/bin/unattended-upgrade
+history.log.9.gz:Upgrade: libpcap0.8:amd64 (1.8.1-6ubuntu1, 1.8.1-6ubuntu1.18.04.1)
+history.log.9.gz:End-Date: 2019-12-11  06:25:40
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-27  17:03:29
+history.log.9.gz:Commandline: apt-get install python-certbot-nginx
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: python3-ndg-httpsclient:amd64 (0.4.4-1, automatic), python3-icu:amd64 (1.9.8-0ubuntu1, automatic), python3-configargparse:amd64 (0.11.0-1, automatic), python3-josepy:amd64 (1.1.0-2+ubuntu18.04.1+certbot+1, automatic), certbot:amd64 (0.31.0-1+ubuntu18.04.1+certbot+1, automatic), python3-zope.hookable:amd64 (4.0.4-4+ubuntu18.04.1+certbot+1, automatic), python3-pbr:amd64 (3.1.1-3ubuntu3, automatic), python3-zope.event:amd64 (4.2.0-1, automatic), python3-zope.component:amd64 (4.3.0-1+ubuntu18.04.1+certbot+3, automatic), python3-mock:amd64 (2.0.0-3, automatic), python3-pyparsing:amd64 (2.2.0+dfsg1-2, automatic), python3-future:amd64 (0.15.2-4+ubuntu18.04.1+certbot+3, automatic), python3-acme:amd64 (0.31.0-2+ubuntu18.04.3+certbot+2, automatic), python3-rfc3339:amd64 (1.0-4, automatic), python3-requests-toolbelt:amd64 (0.8.0-1+ubuntu18.04.1+certbot+1, automatic), python3-certbot:amd64 (0.31.0-1+ubuntu18.04.1+certbot+1, automatic), python3-tz:amd64 (2018.3-2, automatic), python-certbot-nginx:amd64 (0.31.0-1+ubuntu18.04.1+certbot+1), python3-certbot-nginx:amd64 (0.31.0-1+ubuntu18.04.1+certbot+1, automatic), python3-parsedatetime:amd64 (2.4-3+ubuntu18.04.1+certbot+3, automatic)
+history.log.9.gz:End-Date: 2019-12-27  17:03:36
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-31  16:40:09
+history.log.9.gz:Commandline: apt-get install x11vnc
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: libfontenc1:amd64 (1:1.1.3-1, automatic), libdrm-nouveau2:amd64 (2.4.97-1ubuntu1~18.04.1, automatic), tk:amd64 (8.6.0+9, automatic), libllvm8:amd64 (1:8-3~ubuntu18.04.1, automatic), libvncclient1:amd64 (0.9.11+dfsg-1ubuntu1.1, automatic), libpciaccess0:amd64 (0.14-1, automatic), libxcb-present0:amd64 (1.13-2~ubuntu18.04, automatic), libgl1:amd64 (1.0.0-2ubuntu2.3, automatic), libtcl8.6:amd64 (8.6.8+dfsg-3, automatic), libglapi-mesa:amd64 (19.0.8-0ubuntu0~18.04.3, automatic), libxrender1:amd64 (1:0.9.10-1, automatic), libavahi-common-data:amd64 (0.7-3.1ubuntu1.2, automatic), libavahi-common3:amd64 (0.7-3.1ubuntu1.2, automatic), libvncserver1:amd64 (0.9.11+dfsg-1ubuntu1.1, automatic), libxshmfence1:amd64 (1.3-1, automatic), libsm6:amd64 (2:1.2.2-1, automatic), libdrm-amdgpu1:amd64 (2.4.97-1ubuntu1~18.04.1, automatic), libxaw7:amd64 (2:1.0.13-1, automatic), libxcomposite1:amd64 (1:0.4.4-2, automatic), libxtst6:amd64 (2:1.2.3-1, automatic), libxi6:amd64 (2:1.7.9-1, automatic), libxt6:amd64 (1:1.1.5-1, automatic), libxv1:amd64 (2:1.0.11-1, automatic), libxinerama1:amd64 (2:1.1.3-1, automatic), tcl:amd64 (8.6.0+9, automatic), x11vnc:amd64 (0.9.13-3), libxft2:amd64 (2.3.2-1, automatic), tk8.6:amd64 (8.6.8-4, automatic), libxrandr2:amd64 (2:1.5.1-1, automatic), libxcb-shape0:amd64 (1.13-2~ubuntu18.04, automatic), libglx0:amd64 (1.0.0-2ubuntu2.3, automatic), tcl8.6:amd64 (8.6.8+dfsg-3, automatic), libxfixes3:amd64 (1:5.0.3-1, automatic), libxxf86dga1:amd64 (2:1.1.4-1, automatic), libgl1-mesa-dri:amd64 (19.0.8-0ubuntu0~18.04.3, automatic), libxxf86vm1:amd64 (1:1.1.4-1, automatic), libxdamage1:amd64 (1:1.1.4-3, automatic), libgl1-mesa-glx:amd64 (19.0.8-0ubuntu0~18.04.3, automatic), x11vnc-data:amd64 (0.9.13-3, automatic), libxmu6:amd64 (2:1.1.2-2, automatic), libdrm-intel1:amd64 (2.4.97-1ubuntu1~18.04.1, automatic), x11-common:amd64 (1:7.7+19ubuntu7.1, automatic), libdrm-radeon1:amd64 (2.4.97-1ubuntu1~18.04.1, automatic), x11-utils:amd64 (7.7+3build1, automatic), libice6:amd64 (2:1.0.9-2, automatic), xbitmaps:amd64 (1.1.1-2, automatic), libavahi-client3:amd64 (0.7-3.1ubuntu1.2, automatic), libxcb-glx0:amd64 (1.13-2~ubuntu18.04, automatic), libtk8.6:amd64 (8.6.8-4, automatic), libxss1:amd64 (1:1.2.2-1, automatic), libxcb-dri2-0:amd64 (1.13-2~ubuntu18.04, automatic), libxcb-dri3-0:amd64 (1.13-2~ubuntu18.04, automatic), libx11-xcb1:amd64 (2:1.6.4-3ubuntu0.2, automatic), libxcb-sync1:amd64 (1.13-2~ubuntu18.04, automatic), xterm:amd64 (330-1ubuntu2, automatic), libglx-mesa0:amd64 (19.0.8-0ubuntu0~18.04.3, automatic), libglvnd0:amd64 (1.0.0-2ubuntu2.3, automatic)
+history.log.9.gz:End-Date: 2019-12-31  16:40:20
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-31  17:59:32
+history.log.9.gz:Commandline: apt install xvfb
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: xserver-common:amd64 (2:1.19.6-1ubuntu4.3, automatic), libpixman-1-0:amd64 (0.34.0-2, automatic), libxkbfile1:amd64 (1:1.0.9-2, automatic), xfonts-utils:amd64 (1:7.7+6, automatic), x11-xkb-utils:amd64 (7.7+3ubuntu0.18.04.1, automatic), libxfont2:amd64 (1:2.0.3-1, automatic), xfonts-base:amd64 (1:1.0.4+nmu1, automatic), xvfb:amd64 (2:1.19.6-1ubuntu4.3), xfonts-encodings:amd64 (1:1.0.4-2, automatic)
+history.log.9.gz:End-Date: 2019-12-31  17:59:35
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-31  18:22:50
+history.log.9.gz:Commandline: apt install xfce4 xfce4-goodies tightvncserver
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: xfburn:amd64 (0.5.5-1, automatic), xfce4-pulseaudio-plugin:amd64 (0.4.1-0ubuntu1, automatic), xserver-xorg-input-all:amd64 (1:7.7+19ubuntu7.1, automatic), libjson-glib-1.0-0:amd64 (1.4.2-3, automatic), xfce4-systemload-plugin:amd64 (1:1.2.1-0ubuntu1, automatic), libsoup-gnome2.4-1:amd64 (2.62.1-1ubuntu0.4, automatic), libhttp-daemon-perl:amd64 (6.01-1, automatic), xfce4-appfinder:amd64 (4.12.0-2ubuntu2, automatic), libcroco3:amd64 (0.6.12-2, automatic), xserver-xorg:amd64 (1:7.7+19ubuntu7.1, automatic), libhttp-message-perl:amd64 (6.14-1, automatic), gconf2-common:amd64 (3.2.6-4ubuntu1, automatic), libglade2-0:amd64 (1:2.6.4-2, automatic), xubuntu-icon-theme:amd64 (18.04.5, automatic), xserver-xorg-video-qxl:amd64 (0.1.5-2build1, automatic), xfce4-sensors-plugin:amd64 (1.2.6-1, automatic), libthunarx-2-0:amd64 (1.6.15-0ubuntu1, automatic), xserver-xorg-video-vesa:amd64 (1:2.3.4-1build3, automatic), libisofs6:amd64 (1.4.8-1, automatic), libpangoft2-1.0-0:amd64 (1.40.14-1ubuntu0.1, automatic), thunar-media-tags-plugin:amd64 (0.2.1-1, automatic), dbus-x11:amd64 (1.12.2-1ubuntu1.1, automatic), exo-utils:amd64 (0.12.2-0ubuntu0.18.04.1, automatic), xfce4-power-manager:amd64 (1.6.1-0ubuntu1, automatic), libwww-robotrules-perl:amd64 (6.01-1, automatic), glib-networking-services:amd64 (2.56.0-1, automatic), thunar-data:amd64 (1.6.15-0ubuntu1, automatic), libencode-locale-perl:amd64 (1.05-1, automatic), libjpeg-turbo-progs:amd64 (1.5.2-0ubuntu5.18.04.3, automatic), libplist3:amd64 (2.0.0-2ubuntu1, automatic), sound-theme-freedesktop:amd64 (0.8-2ubuntu1, automatic), libart-2.0-2:amd64 (2.3.21-3, automatic), libvte-2.91-0:amd64 (0.52.2-1ubuntu1~18.04.2, automatic), libcups2:amd64 (2.2.7-1ubuntu2.7, automatic), libwayland-egl1:amd64 (1.16.0-1ubuntu1.1~18.04.1, automatic), libgnomecanvas2-common:amd64 (2.30.3-3, automatic), xfce4-datetime-plugin:amd64 (0.7.0-1ubuntu1, automatic), xserver-xorg-video-nouveau:amd64 (1:1.0.15-2, automatic), tango-icon-theme:amd64 (0.8.90-7, automatic), libauthen-sasl-perl:amd64 (2.1600-1, automatic), libgnomeui-0:amd64 (2.24.5-3.2, automatic), xserver-xorg-video-amdgpu:amd64 (18.0.1-1, automatic), xfce4-netload-plugin:amd64 (1.3.1-1, automatic), xfce4-timer-plugin:amd64 (1.6.0-1build1, automatic), gtk2-engines-xfce:amd64 (3.2.0-3, automatic), libxklavier16:amd64 (5.4-3, automatic), libfile-basedir-perl:amd64 (0.07-1, automatic), libnet-ssleay-perl:amd64 (1.84-1ubuntu0.2, automatic), libgcr-base-3-1:amd64 (3.28.0-1, automatic), libxcb-xfixes0:amd64 (1.13-2~ubuntu18.04, automatic), libwacom-common:amd64 (0.29-1, automatic), libhtml-form-perl:amd64 (6.03-1, automatic), libgtk2.0-bin:amd64 (2.24.32-1ubuntu1, automatic), libxfce4ui-common:amd64 (4.13.4-1ubuntu1, automatic), mousepad:amd64 (0.4.0-4ubuntu1, automatic), libegl1:amd64 (1.0.0-2ubuntu2.3, automatic), libdata-dump-perl:amd64 (1.23-1, automatic), orage:amd64 (4.12.1-4, automatic), xfce4-screenshooter:amd64 (1.8.2-2, automatic), xfce4-mailwatch-plugin:amd64 (1.2.0-2ubuntu2, automatic), libblockdev-swap2:amd64 (2.16-2, automatic), libnotify-bin:amd64 (0.7.7-3, automatic), xserver-xorg-core:amd64 (2:1.19.6-1ubuntu4.3, automatic), xfce4-xkb-plugin:amd64 (1:0.8.1-1, automatic), libgdk-pixbuf2.0-0:amd64 (2.36.11-2, automatic), libproxy1v5:amd64 (0.4.15-1, automatic), liblcms2-2:amd64 (2.9-1ubuntu0.1, automatic), libegl-mesa0:amd64 (19.0.8-0ubuntu0~18.04.3, automatic), dconf-service:amd64 (0.26.0-2ubuntu3, automatic), libcairo-gobject2:amd64 (1.15.10-2ubuntu0.1, automatic), libcdparanoia0:amd64 (3.10.2+debian-13, automatic), libtry-tiny-perl:amd64 (0.30-1, automatic), p7zip:amd64 (16.02+dfsg-6, automatic), libtumbler-1-0:amd64 (0.2.1-0ubuntu1, automatic), xfce4-cpugraph-plugin:amd64 (1.0.5-1build1, automatic), libxfce4panel-2.0-4:amd64 (4.12.2-1ubuntu1, automatic), libfile-desktopentry-perl:amd64 (0.22-1, automatic), libpulsedsp:amd64 (1:11.1-1ubuntu7.4, automatic), glib-networking:amd64 (2.56.0-1, automatic), libgtk-3-common:amd64 (3.22.30-1ubuntu4, automatic), libhttp-negotiate-perl:amd64 (6.00-2, automatic), libgtk-3-0:amd64 (3.22.30-1ubuntu4, automatic), libavahi-glib1:amd64 (0.7-3.1ubuntu1.2, automatic), xfce4-whiskermenu-plugin:amd64 (2.1.5-0ubuntu1, automatic), pulseaudio:amd64 (1:11.1-1ubuntu7.4, automatic), libipc-system-simple-perl:amd64 (1.25-4, automatic), libxfce4util7:amd64 (4.12.1-3, automatic), libasound2-data:amd64 (1.1.3-5ubuntu0.2, automatic), rtkit:amd64 (0.11-6, automatic), libatkmm-1.6-1v5:amd64 (2.24.2-3, automatic), libsigc++-2.0-0v5:amd64 (2.10.0-2, automatic), libsecret-1-0:amd64 (0.18.6-1, automatic), liborc-0.4-0:amd64 (1:0.4.28-1, automatic), librsvg2-common:amd64 (2.40.20-2, automatic), xfce4-dict:amd64 (0.8.0-1, automatic), libgnome-keyring-common:amd64 (3.12.0-1build1, automatic), libgpgme11:amd64 (1.10.0-1ubuntu2, automatic), libogg0:amd64 (1.3.2-1, automatic), humanity-icon-theme:amd64 (0.6.15, automatic), xserver-xorg-video-fbdev:amd64 (1:0.4.4-1build6, automatic), at-spi2-core:amd64 (2.28.0-1, automatic), libhttp-date-perl:amd64 (6.02-1, automatic), dconf-gsettings-backend:amd64 (0.26.0-2ubuntu3, automatic), libgail-common:amd64 (2.24.32-1ubuntu1, automatic), libxcb-util1:amd64 (0.4.0-0ubuntu3, automatic), liblwp-mediatypes-perl:amd64 (6.02-1, automatic), xfce4-power-manager-plugins:amd64 (1.6.1-0ubuntu1, automatic), gconf-service:amd64 (3.2.6-4ubuntu1, automatic), libgtk2.0-0:amd64 (2.24.32-1ubuntu1, automatic), libxfce4ui-utils:amd64 (4.13.4-1ubuntu1, automatic), notification-daemon:amd64 (3.20.0-3, automatic), libxcursor1:amd64 (1:1.1.15-1, automatic), xfce4-settings:amd64 (4.12.4-0ubuntu0.18.04.1, automatic), xserver-xorg-input-libinput:amd64 (0.27.1-1, automatic), xserver-xorg-legacy:amd64 (2:1.19.6-1ubuntu4.3, automatic), libgtksourceview-3.0-common:amd64 (3.24.7-1, automatic), libxatracker2:amd64 (19.0.8-0ubuntu0~18.04.3, automatic), libthai-data:amd64 (0.1.27-2, automatic), libxfce4ui-1-0:amd64 (4.13.4-1ubuntu1, automatic), libblockdev-crypto2:amd64 (2.16-2, automatic), libexo-1-0:amd64 (0.12.2-0ubuntu0.18.04.1, automatic), libvorbisfile3:amd64 (1.3.5-4.2, automatic), x11-apps:amd64 (7.7+6ubuntu1, automatic), xfce4-goodies:amd64 (4.12.4), libmtdev1:amd64 (1.1.5-1ubuntu3, automatic), libwacom-bin:amd64 (0.29-1, automatic), libxfce4ui-2-0:amd64 (4.13.4-1ubuntu1, automatic), libbonobo2-common:amd64 (2.32.1-3, automatic), libexo-2-0:amd64 (0.12.2-0ubuntu0.18.04.1, automatic), libegl1-mesa:amd64 (19.0.8-0ubuntu0~18.04.3, automatic), gstreamer1.0-plugins-base:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), xinit:amd64 (1.3.4-3ubuntu3, automatic), libxcb-shm0:amd64 (1.13-2~ubuntu18.04, automatic), libepoxy0:amd64 (1.4.3-1, automatic), libsecret-common:amd64 (0.18.6-1, automatic), gsettings-desktop-schemas:amd64 (3.28.0-1ubuntu1, automatic), xfce4-panel:amd64 (4.12.2-1ubuntu1, automatic), thunar-volman:amd64 (0.8.1-2, automatic), libgail18:amd64 (2.24.32-1ubuntu1, automatic), libxcb-render0:amd64 (1.13-2~ubuntu18.04, automatic), libblockdev-loop2:amd64 (2.16-2, automatic), xfce4-notifyd:amd64 (0.4.2-0ubuntu2, automatic), libwww-perl:amd64 (6.31-1ubuntu0.1, automatic), upower:amd64 (0.99.7-2ubuntu0.18.04.1, automatic), xdg-utils:amd64 (1.1.2-1ubuntu2.3, automatic), libx11-protocol-perl:amd64 (0.56-7, automatic), libblockdev-fs2:amd64 (2.16-2, automatic), libio-html-perl:amd64 (1.001-1, automatic), xserver-xorg-input-wacom:amd64 (1:0.36.1-0ubuntu1, automatic), libblockdev-part2:amd64 (2.16-2, automatic), libgudev-1.0-0:amd64 (1:232-2, automatic), libnet-http-perl:amd64 (6.17-1, automatic), xfwm4:amd64 (4.12.5-1ubuntu0.18.04.1, automatic), libcanberra-gtk3-module:amd64 (0.30-5ubuntu1, automatic), libparted-fs-resize0:amd64 (3.2-20ubuntu0.2, automatic), libopus0:amd64 (1.1.2-1ubuntu1, automatic), libbonoboui2-common:amd64 (2.24.5-4, automatic), glib-networking-common:amd64 (2.56.0-1, automatic), libnet-smtp-ssl-perl:amd64 (1.04-1, automatic), xfce4-smartbookmark-plugin:amd64 (0.5.0-0ubuntu1, automatic), libsoup2.4-1:amd64 (2.62.1-1ubuntu0.4, automatic), libio-socket-ssl-perl:amd64 (2.060-3~ubuntu18.04.1, automatic), gtk2-engines-murrine:amd64 (0.98.2-2ubuntu1, automatic), libltdl7:amd64 (2.4.6-2, automatic), libgbm1:amd64 (19.0.8-0ubuntu0~18.04.3, automatic), x11-session-utils:amd64 (7.7+2build1, automatic), libusbmuxd4:amd64 (1.1.0~git20171206.c724e70f-0.1, automatic), libwayland-client0:amd64 (1.16.0-1ubuntu1.1~18.04.1, automatic), thunar-archive-plugin:amd64 (0.3.1-4, automatic), libaspell15:amd64 (0.60.7~20110707-4ubuntu0.1, automatic), libstartup-notification0:amd64 (0.12-5, automatic), xfce4-terminal:amd64 (0.8.7.4-0ubuntu0.18.04.1, automatic), xorg-docs-core:amd64 (1:1.7.1-1.1, automatic), xfce4-notes:amd64 (1.8.1-1, automatic), libinput-bin:amd64 (1.10.4-1ubuntu0.18.04.1, automatic), xfce4-mount-plugin:amd64 (1.1.2-1, automatic), libexif12:amd64 (0.6.21-4, automatic), libhtml-tagset-perl:amd64 (3.20-3, automatic), fontconfig:amd64 (2.12.6-0ubuntu2, automatic), udisks2:amd64 (2.7.6-3ubuntu0.2, automatic), libfile-mimeinfo-perl:amd64 (0.28-1, automatic), gvfs-libs:amd64 (1.36.1-0ubuntu1.3.3, automatic), libfile-listing-perl:amd64 (6.04-1, automatic), pavucontrol:amd64 (3.0-4, automatic), libatk1.0-0:amd64 (2.28.1-1, automatic), adwaita-icon-theme:amd64 (3.28.0-1ubuntu1, automatic), libgtk-3-bin:amd64 (3.22.30-1ubuntu4, automatic), p7zip-full:amd64 (16.02+dfsg-6, automatic), libpangocairo-1.0-0:amd64 (1.40.14-1ubuntu0.1, automatic), libpulse0:amd64 (1:11.1-1ubuntu7.4, automatic), libgnomeui-common:amd64 (2.24.5-3.2, automatic), xfce4-wavelan-plugin:amd64 (0.6.0-1, automatic), hddtemp:amd64 (0.3-beta15-53, automatic), libimobiledevice6:amd64 (1.2.1~git20171128.5a854327+dfsg-0.1, automatic), xscreensaver-data:amd64 (5.36-1ubuntu1, automatic), liblwp-protocol-https-perl:amd64 (6.07-2, automatic), libatspi2.0-0:amd64 (2.28.0-1, automatic), librsvg2-2:amd64 (2.40.20-2, automatic), tumbler:amd64 (0.2.1-0ubuntu1, automatic), libvorbisenc2:amd64 (1.3.5-4.2, automatic), libnet-dbus-perl:amd64 (1.1.0-4build2, automatic), libtag1v5:amd64 (1.11.1+dfsg.1-0.2build2, automatic), xfconf:amd64 (4.12.1-1, automatic), libpulse-mainloop-glib0:amd64 (1:11.1-1ubuntu7.4, automatic), xserver-xorg-video-intel:amd64 (2:2.99.917+git20171229-1, automatic), libblockdev2:amd64 (2.16-2, automatic), libwnck-common:amd64 (1:2.30.7-5.1ubuntu1, automatic), libhtml-tree-perl:amd64 (5.07-1, automatic), xarchiver:amd64 (1:0.5.4.12-1, automatic), libjack-jackd2-0:amd64 (1.9.12~dfsg-2, automatic), libexo-common:amd64 (0.12.2-0ubuntu0.18.04.1, automatic), libxml-twig-perl:amd64 (1:3.50-1, automatic), xfce4-battery-plugin:amd64 (1.1.0-1, automatic), gconf-service-backend:amd64 (3.2.6-4ubuntu1, automatic), libmailtools-perl:amd64 (2.18-1, automatic), perl-openssl-defaults:amd64 (3build1, automatic), libburn4:amd64 (1.4.8-1, automatic), libjson-glib-1.0-common:amd64 (1.4.2-3, automatic), libgck-1-0:amd64 (3.28.0-1, automatic), xserver-xorg-video-vmware:amd64 (1:13.2.1-1build1, automatic), libgstreamer-plugins-base1.0-0:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), libtie-ixhash-perl:amd64 (1.23-2, automatic), libtheora0:amd64 (1.1.1+dfsg.1-14, automatic), libsndfile1:amd64 (1.0.28-4ubuntu0.18.04.1, automatic), libcolord2:amd64 (1.3.3-2build1, automatic), libvolume-key1:amd64 (0.3.9-4, automatic), libdbus-glib-1-2:amd64 (0.110-2, automatic), tightvncserver:amd64 (1.3.10-0ubuntu4), libgnome-2-0:amd64 (2.32.1-6, automatic), libcanberra-gtk3-0:amd64 (0.30-5ubuntu1, automatic), libgdk-pixbuf2.0-bin:amd64 (2.36.11-2, automatic), thunar:amd64 (1.6.15-0ubuntu1, automatic), libglu1-mesa:amd64 (9.0.0-2.1build1, automatic), hicolor-icon-theme:amd64 (0.17-2, automatic), libfont-afm-perl:amd64 (1.20-2, automatic), libhttp-cookies-perl:amd64 (6.04-1, automatic), tumbler-common:amd64 (0.2.1-0ubuntu1, automatic), xfdesktop4:amd64 (4.12.3-4ubuntu2, automatic), xserver-xorg-video-all:amd64 (1:7.7+19ubuntu7.1, automatic), libthai0:amd64 (0.1.27-2, automatic), xserver-xorg-video-ati:amd64 (1:18.0.1-1, automatic), emacsen-common:amd64 (2.0.8, automatic), libwnck-3-0:amd64 (3.24.1-2, automatic), libasyncns0:amd64 (0.8-6, automatic), libblockdev-utils2:amd64 (2.16-2, automatic), aspell:amd64 (0.60.7~20110707-4ubuntu0.1, automatic), libcairomm-1.0-1v5:amd64 (1.12.2-3, automatic), libupower-glib3:amd64 (0.99.7-2ubuntu0.18.04.1, automatic), libgdk-pixbuf2.0-common:amd64 (2.36.11-2, automatic), xfce4-notes-plugin:amd64 (1.8.1-1, automatic), unzip:amd64 (6.0-21ubuntu1, automatic), xfce4-clipman:amd64 (2:1.4.2-1, automatic), xorg:amd64 (1:7.7+19ubuntu7.1, automatic), libspeexdsp1:amd64 (1.2~rc1.2-1ubuntu2, automatic), libbonoboui2-0:amd64 (2.24.5-4, automatic), libgtk2.0-common:amd64 (2.24.32-1ubuntu1, automatic), libtdb1:amd64 (1.3.15-2, automatic), libgtksourceview-3.0-1:amd64 (3.24.7-1, automatic), libasound2:amd64 (1.1.3-5ubuntu0.2, automatic), libblockdev-part-err2:amd64 (2.16-2, automatic), desktop-base:amd64 (8.0.2ubuntu1, automatic), libasound2-plugins:amd64 (1.1.1-1ubuntu1, automatic), x11-xserver-utils:amd64 (7.7+7build1, automatic), libgraphite2-3:amd64 (1.3.11-2, automatic), libxfce4util-bin:amd64 (4.12.1-3, automatic), libvisual-0.4-0:amd64 (0.4.0-11, automatic), libgnome-keyring0:amd64 (3.12.0-1build1, automatic), xfce4-genmon-plugin:amd64 (4.0.1-1, automatic), librest-0.7-0:amd64 (0.8.0-2, automatic), dictionaries-common:amd64 (1.27.2, automatic), gvfs:amd64 (1.36.1-0ubuntu1.3.3, automatic), libatk-bridge2.0-0:amd64 (2.26.2-1, automatic), xserver-xorg-video-radeon:amd64 (1:18.0.1-1, automatic), libtimedate-perl:amd64 (2.3000-2, automatic), usbmuxd:amd64 (1.1.0-2ubuntu0.1, automatic), xfce4-verve-plugin:amd64 (1.1.0-1, automatic), libgnomevfs2-common:amd64 (1:2.24.4-6.1ubuntu2, automatic), libvte-2.91-common:amd64 (0.52.2-1ubuntu1~18.04.2, automatic), libflac8:amd64 (1.3.2-1, automatic), xfce4-cpufreq-plugin:amd64 (1.1.3-1, automatic), libnss3:amd64 (2:3.35-2ubuntu2.6, automatic), lm-sensors:amd64 (1:3.4.0-4, automatic), xfce4-weather-plugin:amd64 (0.8.11-0ubuntu0.18.04.1, automatic), libwacom2:amd64 (0.29-1, automatic), libwnck-3-common:amd64 (3.24.1-2, automatic), xscreensaver:amd64 (5.36-1ubuntu1, automatic), libudisks2-0:amd64 (2.7.6-3ubuntu0.2, automatic), gvfs-common:amd64 (1.36.1-0ubuntu1.3.3, automatic), libgarcon-common:amd64 (0.6.1-2, automatic), libglibmm-2.4-1v5:amd64 (2.56.0-1, automatic), libxres1:amd64 (2:1.2.0-2, automatic), libical3:amd64 (3.0.1-5, automatic), gtk-update-icon-cache:amd64 (3.22.30-1ubuntu4, automatic), libtagc0:amd64 (1.11.1+dfsg.1-0.2build2, automatic), libxml-parser-perl:amd64 (2.44-2build3, automatic), libxvmc1:amd64 (2:1.0.10-1, automatic), libpangomm-1.4-1v5:amd64 (2.40.1-4, automatic), dbus-user-session:amd64 (1.12.2-1ubuntu1.1, automatic), libgnomevfs2-0:amd64 (1:2.24.4-6.1ubuntu2, automatic), libvorbis0a:amd64 (1.3.5-4.2, automatic), xfce4-session:amd64 (4.12.1-3ubuntu3, automatic), libatk1.0-data:amd64 (2.28.1-1, automatic), libharfbuzz0b:amd64 (1.7.2-1ubuntu1, automatic), libxfce4util-common:amd64 (4.12.1-3, automatic), miscfiles:amd64 (1.5+dfsg-2, automatic), ristretto:amd64 (0.8.2-1ubuntu1, automatic), libtag1v5-vanilla:amd64 (1.11.1+dfsg.1-0.2build2, automatic), libkeybinder-3.0-0:amd64 (0.3.2-1, automatic), xinput:amd64 (1.6.2-1build1, automatic), libcanberra0:amd64 (0.30-5ubuntu1, automatic), libgconf-2-4:amd64 (3.2.6-4ubuntu1, automatic), libcairo2:amd64 (1.15.10-2ubuntu0.1, automatic), liborbit-2-0:amd64 (1:2.14.19-4, automatic), libpoppler-glib8:amd64 (0.62.0-2ubuntu2.10, automatic), xfonts-scalable:amd64 (1:1.0.3-1.1, automatic), libgnomecanvas2-0:amd64 (2.30.3-3, automatic), libpoppler73:amd64 (0.62.0-2ubuntu2.10, automatic), pulseaudio-utils:amd64 (1:11.1-1ubuntu7.4, automatic), libpango-1.0-0:amd64 (1.40.14-1ubuntu0.1, automatic), xfce4-clipman-plugin:amd64 (2:1.4.2-1, automatic), desktop-file-utils:amd64 (0.23-1ubuntu3.18.04.2, automatic), poppler-data:amd64 (0.4.8-2, automatic), libxkbcommon0:amd64 (0.8.2-1~ubuntu18.04.1, automatic), libxfconf-0-2:amd64 (4.12.1-1, automatic), libbonobo2-0:amd64 (2.32.1-3, automatic), libhtml-parser-perl:amd64 (3.72-3build1, automatic), xfce4-places-plugin:amd64 (1.7.0-3, automatic), xfdesktop4-data:amd64 (4.12.3-4ubuntu2, automatic), libgstreamer1.0-0:amd64 (1.14.5-0ubuntu1~18.04.1, automatic), libnotify4:amd64 (0.7.7-3, automatic), liburi-perl:amd64 (1.73-1, automatic), libsamplerate0:amd64 (0.1.9-1, automatic), ubuntu-mono:amd64 (16.10+18.04.20181005-0ubuntu1, automatic), gvfs-daemons:amd64 (1.36.1-0ubuntu1.3.3, automatic), xfce4-diskperf-plugin:amd64 (2.6.1-1, automatic), libwnck22:amd64 (1:2.30.7-5.1ubuntu1, automatic), libdconf1:amd64 (0.26.0-2ubuntu3, automatic), libgarcon-1-0:amd64 (0.6.1-2, automatic), xfce4-fsguard-plugin:amd64 (1.1.0-1, automatic), gconf2:amd64 (3.2.6-4ubuntu1, automatic), libqrencode3:amd64 (3.4.4-1build1, automatic), libatasmart4:amd64 (0.19-4, automatic), libgnome2-common:amd64 (2.32.1-6, automatic), greybird-gtk-theme:amd64 (3.22.8-1, automatic), libnspr4:amd64 (2:4.18-1ubuntu1, automatic), libunique-1.0-0:amd64 (1.1.6-6, automatic), libjte1:amd64 (1.20-2ubuntu2, automatic), libwayland-server0:amd64 (1.16.0-1ubuntu1.1~18.04.1, automatic), xfce4:amd64 (4.12.4), libinput10:amd64 (1.10.4-1ubuntu0.18.04.1, automatic), libexo-helpers:amd64 (0.12.2-0ubuntu0.18.04.1, automatic), aspell-en:amd64 (2017.08.24-0-0.1, automatic), libdatrie1:amd64 (0.2.10-7, automatic), libxml-xpathengine-perl:amd64 (0.14-1, automatic), xfce4-taskmanager:amd64 (1.2.0-0ubuntu1, automatic), libwebrtc-audio-processing1:amd64 (0.3-1, automatic), libgtkmm-3.0-1v5:amd64 (3.22.2-2, automatic), xfce4-power-manager-data:amd64 (1.6.1-0ubuntu1, automatic), libwayland-cursor0:amd64 (1.16.0-1ubuntu1.1~18.04.1, automatic), libhtml-format-perl:amd64 (2.12-1, automatic), libevdev2:amd64 (1.5.8+dfsg-1, automatic)
+history.log.9.gz:End-Date: 2019-12-31  18:24:21
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-31  19:19:28
+history.log.9.gz:Commandline: apt-get install sublime-text
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: sublime-text:amd64 (3211)
+history.log.9.gz:End-Date: 2019-12-31  19:19:31
+history.log.9.gz:
+history.log.9.gz:Start-Date: 2019-12-31  19:51:50
+history.log.9.gz:Commandline: apt-get install gnome-system-monitor
+history.log.9.gz:Requested-By: danscap (1000)
+history.log.9.gz:Install: libgtop2-common:amd64 (2.38.0-2ubuntu0.18.04.1, automatic), gnome-system-monitor:amd64 (3.28.2-0ubuntu1), libgtop-2.0-11:amd64 (2.38.0-2ubuntu0.18.04.1, automatic)
+history.log.9.gz:End-Date: 2019-12-31  19:51:52
+ 

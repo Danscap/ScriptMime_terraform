@@ -1,0 +1,11 @@
+---
+ - name: Working with variables
+   hosts: all
+   vars:
+    x: 45
+    a_variable: 'hello'
+   tasks:
+   - debug:
+      msg:
+        - "x value is {{x}}"
+        - "a var is {{a_variable}}"

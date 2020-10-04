@@ -1,0 +1,10 @@
+---
+ - name: Playbook for executing tasks even after errors
+   hosts: all
+   gather_facts: false
+   tasks:
+   - command: "ls ."
+     register: current_directory
+     ignore_errors: yes
+   - debug: "current dir : {{current_directory}}"
+   
