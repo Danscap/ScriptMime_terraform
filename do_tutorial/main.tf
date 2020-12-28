@@ -57,6 +57,11 @@ resource "digitalocean_droplet" "web" {
 }
 
 
+resource "local_file" "ips" {
+  filename = "${path.module}/ips.txt"
+  content = join("\n", "${digitalocean_droplet.web.*.ipv4_address}")
+}
+
 #Outputs
 
 
