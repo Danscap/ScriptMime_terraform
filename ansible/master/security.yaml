@@ -1,0 +1,89 @@
+---
+- name: setup for all servers
+  hosts: node:database
+  become: true
+  remote_user: root
+  vars_files:
+    - vars/default.yml
+
+  tasks:
+  	# _______________SECURITY
+  	 # UFW Setup
+  	      #block access to SSH if 6 or more connections have been attempted in last 30 seconds
+  	    - name: UFW - Allow SSH connections
+  	      ufw:
+  	        rule: limit
+  	        port: ssh
+  	        proto: tcp
+  	    - name: UFW - Allow port 80
+  	      ufw:
+  	        rule: allow
+  	        port: 80
+  	        proto: tcp
+  	    - name: UFW - Allow port 443
+  	      ufw:
+  	        rule: allow
+  	        port: 443
+  	        proto: tcp
+  	    - name: UFW - Global Deny Incoming
+  	      ufw:
+  	        rule: deny
+  	        direction: incoming
+  	        proto: tcp
+  	  # Editing /etc/sysctl.conf
+  	    - name: sysctl security 1
+  	      replace:
+  	          path: /etc/sysctl.conf
+  	          regexp: "#net.ipv4.conf.default.rp_filter=1"
+  	          replace: "net.ipv4.conf.default.rp_filter=1"
+  	    - name: sysctl security 2
+  	      replace:
+  	       path: /etc/sysctl.conf
+  	       regexp: "#net.ipv4.conf.all.rp_filter=1"
+  	       replace: "net.ipv4.conf.all.rp_filter=1"
+  	    - name: sysctl security 3
+  	      replace:
+  	       path: /etc/sysctl.conf
+  	       regexp: "#net.ipv4.conf.all.send_redirects = 0"
+  	       replace: "net.ipv4.conf.all.send_redirects = 0"
+  	    - name: prevent man in the middle ipv4
+  	      replace:
+  	       path: /etc/sysctl.conf
+  	       regexp: "#net.ipv4.conf.all.send_redirects = 0"
+  	       replace: "net.ipv4.conf.all.send_redirects = 0"
+
+  	    - name: prevent man in the middle ipv6
+  	      replace:
+  	       path: /etc/sysctl.conf
+  	       regexp: "#net.ipv6.conf.all.send_redirects = 0"
+  	       replace: "net.ipv6.conf.all.send_redirects = 0"
+  	    - name: sysctl security 4
+  	      replace:
+  	       path: /etc/sysctl.conf
+  	       regexp: "net.ipv4.conf.all.accept_source_route = 0"
+  	       replace: "net.ipv4.conf.all.accept_source_route = 0"
+  	    - name: sysctl security 5
+  	      replace:
+  	       path: /etc/sysctl.conf
+  	       regexp: "#net.ipv6.conf.all.accept_source_route = 0"
+  	       replace: "net.ipv6.conf.all.accept_source_route = 0"
+  	    - name: sysctl security 6
+  	      replace:
+  	       path: /etc/sysctl.conf
+  	       regexp: "#net.ipv4.conf.all.log_martians = 1"
+  	       replace: "net.ipv4.conf.all.log_martians = 1"
+
+
+  	  # Editing /etc/host.conf
+  	    - name: prevent ip spoof
+  	      lineinfile:
+  	        path: /etc/host.conf
+  	        state: present
+  	        regexp: 'multi on'
+  	        line: 'nospoof on' #PermitRootLogin prohibit-password
+
+  	    # - name: UFW - Deny all other incoming traffic by default
+  	    #   ufw:
+  	    #     state: enabled
+  	    #     policy: deny
+  	    #     direction: incoming

@@ -1,0 +1,30 @@
+---
+ - name: Set up and configure load balancer (nginx) server, first database server serves as load balancer
+   hosts: loadbalancer
+   become: yes
+
+   handlers:
+    - name: restart nginx
+      service: 
+        name: nginx
+        state: restarted
+   tasks:
+    - name: copy nginx.conf to load balancer server
+      synchronize:
+        src: /etc/nginx/nginx.conf
+        dest: /etc/nginx/nginx.conf
+
+    - name: copy sites-available folder to load balancer server
+      synchronize:
+        src: /etc/nginx/sites-available/
+        dest: /etc/nginx/sites-available/
+        recursive: yes
+        
+    - name: create symbolic link to loadbalancer file in sites-available to sites-enabled
+      shell: |
+        cd /etc/nginx/sites-enabled/
+        ln -s /etc/nginx/sites-available/loadbalancertest 
+      notify: restart nginx
+
+
+

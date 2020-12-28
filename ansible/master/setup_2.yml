@@ -1,0 +1,272 @@
+---
+ - name: Playbook for copying and running setup scripts to new server and setting up postgres on database servers
+   hosts: node,database
+   vars_files:
+    - vars/setup_2_vars.yml
+   # become: yes
+   become: yes
+   # become_user: danscap
+
+   pre_tasks:
+    - name: update apt 
+      apt: update_cache=yes cache_valid_time=3600
+      become: yes
+
+   handlers:
+    - name: restart bash
+      shell: "exec bash"
+
+
+   tasks:
+   # - name: copy scripts to server
+   #   command: "rsync -avzP --exclude /Desktop/testingapp/ /home/danscap/* danscap@{{ inventory_hostname }}:/home/danscap/"
+   #   register: copy_status
+   #   become_user: danscap
+
+   - name: copy Desktop directory
+     synchronize:
+       src: /home/danscap/Desktop/
+       dest: /home/danscap/Desktop/
+       recursive: yes
+       # owner: yes
+       rsync_opts:
+         # - --include=*/
+         - --exclude=testingapp/
+         - --exclude=.*
+     tags: idempotence
+
+   - name: copy fail2ban directory (whole settings)
+     synchronize:
+       src: /etc/fail2ban/
+       dest: /etc/fail2ban/
+       recursive: yes
+       # owner: yes
+     tags: idempotence
+     ignore_errors: yes
+
+
+   - block:
+     - name: run extraprograms.sh
+       script: "{{ script_dir }}extraprograms.sh"
+     - name: run git.sh
+       script: "{{ script_dir }}git.sh"
+     - name: run terraform.sh
+       script: "{{ script_dir }}terraform.sh"
+     - name: run ansible.sh
+       script: "{{ script_dir }}ansible.sh"
+     # - name: run vnc.sh
+     #   script: "{{ script_dir }}vnc.sh"  #.vnc folder only created after starting vncserver, so uncomment lines in vnc.sh
+     # - name: run putipsinhostsfile.sh
+     #   script: "{{ script_dir }}putipsinhostsfile.sh"
+     # when: copy_status.changed
+     become_user: danscap
+     tags: only_once
+
+
+    # copy ssh pub and priv keys (needed for github)
+
+   - name: copy private key to new server
+     copy:
+        src: "/home/danscap/.ssh/id_rsa"
+        dest: "/home/danscap/.ssh/id_rsa"
+        owner: danscap
+        group: danscap
+     register: pub_key
+     become_user: danscap
+     tags: idempotence
+
+   - name: copy public key to new server
+     copy:
+        src: "/home/danscap/.ssh/id_rsa.pub"
+        dest: "/home/danscap/.ssh/id_rsa.pub"
+        owner: danscap
+        group: danscap
+     register: priv_key
+     become_user: danscap
+     tags: idempotence
+
+   - name: Change  permissions on priv key
+     file:
+       path: "/home/danscap/.ssh/id_rsa"
+       mode: '0600'
+     tags: idempotence
+
+   - name: Change  permissions on pub key
+     file:
+       path: "/home/danscap/.ssh/id_rsa.pub"
+       mode: '0600'
+     tags: idempotence
+
+    # clone github repos
+
+   - name: Clone testingapp repo
+     git:
+        repo: "{{ testingapp_url }}"
+        dest: "{{ app_dir_root }}testingapp/"
+        update: yes
+        accept_hostkey: yes
+        key_file: "/home/danscap/.ssh/id_rsa"
+     become_user: danscap
+     ignore_errors: yes
+     tags: idempotence
+
+   - name: Clone server repo
+     git:
+        repo: "{{ pgapi_url }}"
+        dest: "{{ app_dir_root }}pg-api/"
+        update: yes
+        accept_hostkey: yes
+        key_file: "/home/danscap/.ssh/id_rsa"
+     become_user: danscap
+     ignore_errors: yes
+     tags: idempotence
+
+
+    # copy extra files and set up shortcuts/ease of use and configurations
+   - name: copy bash_aliases
+     copy:
+       src: "/home/danscap/.bash_aliases"
+       dest: "/home/danscap/.bash_aliases"
+       owner: danscap
+     tags: idempotence  
+
+   - name: copy bashrc
+     copy:
+       src: "/home/danscap/.bashrc"
+       dest: "/home/danscap/.bashrc"
+       owner: danscap
+     notify: restart bash
+     tags: idempotence  
+
+   - name: copy main scripts (non ansible) 
+     synchronize:
+       src: /home/danscap/scripts/
+       dest: /home/danscap/scripts/
+       recursive: yes
+     tags: idempotence 
+
+   - name: Create ~/.config if doesn't exist
+     file:
+      path: /home/danscap/.config
+      state: directory
+      owner: danscap
+      group: danscap
+     tags: idempotence 
+
+   - name: Copy sublime text 3 config files
+     synchronize:
+       src: "/home/danscap/.config/sublime-text-3/"
+       dest: "/home/danscap/.config/sublime-text-3/"
+       recursive: yes
+       rsync_opts:
+         # - --include=*/
+         - --exclude=Cache/nginx/
+
+     tags: idempotence 
+
+     #take care of wendy inotify replacement
+   - name: copy wendy service file 
+     copy:
+       src: "/etc/systemd/system/wendy.service"
+       dest: "/etc/systemd/system/wendy.service"
+       owner: danscap
+     tags: idempotence 
+
+   - name: start wendy service
+     service:
+      name: wendy.service
+      state: restarted
+      enabled: yes
+     tags: idempotence
+
+     # run npm install in project directories
+   - name: Run NPM install on testingapp
+     npm: path="{{ app_dir_root }}testingapp/"
+     register: pgapi_npm_finish
+     tags: idempotence
+     become_user: danscap
+     # become: yes
+
+   - name: Run NPM install on pgapi
+     npm: path="{{ app_dir_root }}pg-api/"
+     register: testinapp_npm_finish
+     tags: idempotence
+     become_user: danscap
+     # become: yes
+
+     # install pm2 and configure it
+   - name: Install pm2
+     npm: name=pm2 global=yes production=yes
+     tags: idempotence
+
+   - name: Install gulp
+     npm: name=gulp global=yes production=yes
+     tags: idempotence
+
+
+    # change environment variables, ips, in pg-api/testingapp to current host    
+   - name: empty min/image folder in pgapi
+     file:
+      path: /home/danscap/Desktop/testingapp/pg-api/minified/images/.keep
+      state: absent
+     tags: idempotence
+
+   - name: get public ip address of loadbalancer for facts and later use
+     shell: grep -v "database" /home/danscap/Desktop/server_conf/do_tutorial/hetzner/database_ips.txt | head -1
+     register: loadbalancerip
+     tags: idempotence
+
+   - name: spit out ip
+     debug:
+      msg: "TEST: loadbalancer ip is {{ loadbalancerip }}"
+     tags: idempotence
+
+   - name: change .env file in testingapp/
+     replace:
+      path: /home/danscap/Desktop/testingapp/testingapp/.env
+      regexp: "REACT_APP_SERVER_ADDRESS.*"
+      replace: "REACT_APP_SERVER_ADDRESS='http://{{ inventory_hostname }}:3000/'"
+     tags: idempotence
+
+   - name: change gulpfile to new ip in pg-api
+     replace:
+      path: /home/danscap/Desktop/testingapp/pg-api/gulpfile.js
+      regexp: "const server_ip.* "
+      replace: "const server_ip = '{{ inventory_hostname }}' "
+     tags: idempotence
+
+   - name: change server.js to new ip in pg-api # 
+     replace:
+      path: /home/danscap/Desktop/testingapp/pg-api/server.js
+      regexp: "const server_ip.*"
+      replace: "const server_ip = '{{ inventory_hostname }}' " # {{ inventory_hostname }}
+     tags: idempotence
+
+   - name: get public ip address of loadbalancer for facts and later use
+     shell: cat /home/danscap/Desktop/server_conf/do_tutorial/hetzner/database_privateips.txt
+     register: databaseprivateip
+     tags: idempotence
+
+   - name: change server.js to connect to database server (private ip)
+     replace:
+      path: /home/danscap/Desktop/testingapp/pg-api/server.js
+      regexp: "host: .*," #assumption: load balancer ip is also database server ip
+      replace: "host: '{{ databaseprivateip.stdout }}' ," # {{ loadbalancerip.stdout }} ALSO {{ ansible_all_ipv4_addresses[1] }}
+     tags: idempotence
+
+   - name: increase max file watchers
+     lineinfile:
+      path: /etc/sysctl.conf
+      # regexp: "host: .*," #assumption: load balancer ip is also database server ip
+      line: "fs.inotify.max_user_watches=524288"
+      state: present
+     tags: idempotence
+
+   - name: restart sysctl
+     command: "sysctl -p"
+     tags: idempotence
+
+
+
+
+

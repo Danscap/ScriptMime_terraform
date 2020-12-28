@@ -1,0 +1,91 @@
+--- 
+ - name: playbook for database server 
+   hosts: database
+   become: yes
+
+   handlers:
+    - name: restart postgres
+      service: 
+        name: postgresql
+        state: restarted
+
+   tasks:
+    - name: Change pg_hba.conf to accept 0.0.0.0/0
+      lineinfile:
+        path: /etc/postgresql/10/main/pg_hba.conf
+        state: present
+        insertafter: '# IPv4 local connections:'
+        line: 'host all all 0.0.0.0/0 trust'
+        backup: yes
+
+    - name: Change postgres.conf to listen to all addresses
+      replace: 
+        path: /etc/postgresql/10/main/postgresql.conf
+        regexp: '#listen_addresses.*'
+        replace: "listen_addresses = '*'"
+        backup: yes
+      notify: restart postgres
+
+
+# PASS in PASSWORD in command line as --extra-vars "PGUSER_PASSWORD=foo"
+    # - name: create postgresql user
+    #   postgresql_user:
+    #     user: "danscap"
+    #     password: "{{ PGUSER_PASSWORD }}"
+    #     role_attr_flags: "SUPERUSER"
+    #   become: true
+    #   become_user: postgres
+
+    # - name: Create new superuser
+    #     postgresql_user:
+    #       name: "danscap"
+    #       password: ""
+    #       encrypted: True
+    #     become_user: postgres
+
+        
+    - name: Create superuser danscap
+      command: createuser -s danscap
+        # become: yes
+      ignore_errors: yes
+      become_user: postgres
+
+    - name: Create db danscap
+      command: createdb danscap
+        # become: yes
+      ignore_errors: yes
+      become_user: danscap
+
+    - name: copy database 
+      command: "pg_dump -C -h 68.183.29.141 -U danscap countries | psql -h {{ inventory_hostname }} -U danscap danscap"
+      become_user: danscap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # - name: Change postgres.conf to listen to all addresses
+    #   lineinfile:
+    #     path: /etc/postgresql/10/main/pg_hba.conf
+    #     state: present
+    #     regexp: '^#listen_address(.*)$'
+    #     line: "listen_address = '*'"
+    #     backrefs: yes
+    #     backup: yes

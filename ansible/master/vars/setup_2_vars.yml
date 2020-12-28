@@ -1,0 +1,16 @@
+---
+
+
+
+copy_src: /home/danscap/Desktop/server_conf/ansible/master/scripts/
+copy_dest: /home/danscap/scripts/
+
+app_dir_root: /home/danscap/Desktop/testingapp/
+
+script_dir: /home/danscap/Desktop/server_conf/ansible/master/scripts/
+
+
+# git urls
+
+testingapp_url: git@github.com:Danscap/testingapp.git
+pgapi_url: git@github.com:Danscap/pg-api.git
