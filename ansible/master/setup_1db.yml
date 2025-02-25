@@ -6,7 +6,6 @@
   vars_files:
     - vars/default.yml
 
-
   handlers:
     - name: restart postgres
       service: 
@@ -14,10 +13,10 @@
         state: restarted
 
   tasks:
-   # - name: Install Prerequisites
+    # - name: Install Prerequisites
     #  apt: name=aptitude update_cache=yes state=latest force_apt_get=yes
 
-  # Sudo Group Setup
+    # Sudo Group Setup
     - name: Make sure we have a 'wheel' group
       group:
         name: wheel
@@ -31,7 +30,7 @@
         line: '%wheel ALL=(ALL) NOPASSWD: ALL'
         validate: '/usr/sbin/visudo -cf %s'
 
-  # User + Key Setup
+    # User + Key Setup
     - name: Create a new regular user with sudo privileges
       user:
         name: "{{ create_user }}"
@@ -40,7 +39,8 @@
         append: true
         create_home: true
         shell: /bin/bash
-#unlock this task if the server does not get an ssh key by default
+
+    # unlock this task if the server does not get an ssh key by default
     - name: Set authorized key for remote user
       authorized_key:
         user: "{{ create_user }}"
@@ -55,33 +55,38 @@
         line: 'PermitRootLogin no' #PermitRootLogin prohibit-password
 
     # _______________SECURITY
-     # UFW Setup
-          #block access to SSH if 6 or more connections have been attempted in last 30 seconds
+    # UFW Setup
+    # block access to SSH if 6 or more connections have been attempted in last 30 seconds
     - name: UFW - Allow SSH connections
       ufw:
         rule: limit
         port: ssh
         proto: tcp
+    
     - name: UFW - Allow port 80
       ufw:
         rule: allow
         port: 80
         proto: tcp
+    
     - name: UFW - Allow port 443
       ufw:
         rule: allow
         port: 443
         proto: tcp
+    
     - name: UFW - Allow port 5000
       ufw:
         rule: allow
         port: 5000
         proto: tcp
+    
     - name: UFW - Allow port 5001
       ufw:
         rule: allow
         port: 5001
         proto: tcp
+    
     - name: UFW - Allow port 3000
       ufw:
         rule: allow
@@ -93,6 +98,7 @@
     #     rule: deny
     #     direction: incoming
     #     proto: tcp
+    
     - name: UFW - Deny all other incoming traffic by default
       ufw:
         rule: deny
@@ -109,71 +115,81 @@
         to_ip: 172.16.0.0/12
         direction: out
       tags: test
+    
     - name: UFW - Deny outgoing private network traffic 192.168.x
       ufw:
         rule: deny
         to_ip: 192.168.0.0/16
         direction: out
+    
     - name: UFW - Deny outgoing private network traffic 100.64.x
       ufw:
         rule: deny
         to_ip: 100.64.0.0/10
         direction: out
+    
     - name: UFW - Deny outgoing private network traffic 198.18.x
       ufw:
         rule: deny
         to_ip: 198.18.0.0/15
         direction: out
+    
     - name: UFW - Deny outgoing private network traffic 169.254.x
       ufw:
         rule: deny
         to_ip: 169.254.0.0/16
         direction: out
-  # Editing /etc/sysctl.conf
+    
+    # Editing /etc/sysctl.conf
     - name: sysctl security 1
       replace:
-          path: /etc/sysctl.conf
-          regexp: "#net.ipv4.conf.default.rp_filter=1"
-          replace: "net.ipv4.conf.default.rp_filter=1"
+        path: /etc/sysctl.conf
+        regexp: "#net.ipv4.conf.default.rp_filter=1"
+        replace: "net.ipv4.conf.default.rp_filter=1"
+    
     - name: sysctl security 2
       replace:
-       path: /etc/sysctl.conf
-       regexp: "#net.ipv4.conf.all.rp_filter=1"
-       replace: "net.ipv4.conf.all.rp_filter=1"
+        path: /etc/sysctl.conf
+        regexp: "#net.ipv4.conf.all.rp_filter=1"
+        replace: "net.ipv4.conf.all.rp_filter=1"
+    
     - name: sysctl security 3
       replace:
-       path: /etc/sysctl.conf
-       regexp: "#net.ipv4.conf.all.send_redirects = 0"
-       replace: "net.ipv4.conf.all.send_redirects = 0"
+        path: /etc/sysctl.conf
+        regexp: "#net.ipv4.conf.all.send_redirects = 0"
+        replace: "net.ipv4.conf.all.send_redirects = 0"
+    
     - name: prevent man in the middle ipv4
       replace:
-       path: /etc/sysctl.conf
-       regexp: "#net.ipv4.conf.all.send_redirects = 0"
-       replace: "net.ipv4.conf.all.send_redirects = 0"
+        path: /etc/sysctl.conf
+        regexp: "#net.ipv4.conf.all.send_redirects = 0"
+        replace: "net.ipv4.conf.all.send_redirects = 0"
 
     - name: prevent man in the middle ipv6
       replace:
-       path: /etc/sysctl.conf
-       regexp: "#net.ipv6.conf.all.send_redirects = 0"
-       replace: "net.ipv6.conf.all.send_redirects = 0"
+        path: /etc/sysctl.conf
+        regexp: "#net.ipv6.conf.all.send_redirects = 0"
+        replace: "net.ipv6.conf.all.send_redirects = 0"
+    
     - name: sysctl security 4
       replace:
-       path: /etc/sysctl.conf
-       regexp: "net.ipv4.conf.all.accept_source_route = 0"
-       replace: "net.ipv4.conf.all.accept_source_route = 0"
+        path: /etc/sysctl.conf
+        regexp: "net.ipv4.conf.all.accept_source_route = 0"
+        replace: "net.ipv4.conf.all.accept_source_route = 0"
+    
     - name: sysctl security 5
       replace:
-       path: /etc/sysctl.conf
-       regexp: "#net.ipv6.conf.all.accept_source_route = 0"
-       replace: "net.ipv6.conf.all.accept_source_route = 0"
+        path: /etc/sysctl.conf
+        regexp: "#net.ipv6.conf.all.accept_source_route = 0"
+        replace: "net.ipv6.conf.all.accept_source_route = 0"
+    
     - name: sysctl security 6
       replace:
-       path: /etc/sysctl.conf
-       regexp: "#net.ipv4.conf.all.log_martians = 1"
-       replace: "net.ipv4.conf.all.log_martians = 1"
+        path: /etc/sysctl.conf
+        regexp: "#net.ipv4.conf.all.log_martians = 1"
+        replace: "net.ipv4.conf.all.log_martians = 1"
 
-
-  # Editing /etc/host.conf
+    # Editing /etc/host.conf
     # - name: prevent ip spoof
     #   lineinfile:
     #     path: /etc/host.conf
@@ -181,17 +197,17 @@
     #     # regexp: 'multi on'
     #     line: 'nospoof on' #PermitRootLogin prohibit-password
 
-  # Install Packages
+    # Install Packages
     - name: Update apt
       apt: update_cache=yes
 
     # - name: Install required system packages
     #   apt: name={{ sys_packages }} state=latest
     #   ignore_errors: yes
+    
     - name: Install base packages
       apt: name={{ sys_packages }} state=present
       ignore_errors: yes
-
       tags:
         - packages
 
@@ -202,11 +218,7 @@
     - name: setup database
       script: "/home/danscap/Desktop/server_conf/ansible/master/scripts/postgrespsql.sh"
 
-    
-
-   tasks:
-
-    #PG_HBA.conf
+    # PG_HBA.conf
     - name: Change pg_hba.conf to accept our private network range
       lineinfile:
         path: /etc/postgresql/13/main/pg_hba.conf
@@ -247,9 +259,7 @@
         line: 'host all all 0.0.0.0/0 reject'
         backup: no
 
-
-    #POSTGRESQL.conf
-
+    # POSTGRESQL.conf
     - name: Change postgres.conf to listen on localhost and private ip addresses
       replace: 
         path: /etc/postgresql/13/main/postgresql.conf
@@ -257,6 +267,3 @@
         replace: "listen_addresses = 'localhost,10.0.1.1'"
         backup: no
       notify: restart postgres
-
-
-
